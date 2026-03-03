@@ -72,6 +72,7 @@ markdown_extensions:
   - meta
   - footnotes
   - pymdownx.blocks.caption
+  - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -82,6 +83,7 @@ markdown_extensions:
       pygments_lang_class: true
       use_pygments: true
   - pymdownx.inlinehilite
+  - pymdownx.mark
   - pymdownx.snippets:
       auto_append:
         - resources/glossary.md
@@ -92,6 +94,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tilde
   - toc:
       permalink: true
 extra:

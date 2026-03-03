@@ -130,6 +130,13 @@ p.opt::before {
     color: black;
 }
 
+/* IFR */
+.status-badge.ifr {
+    background-color: #0558ab;
+    /* Blue */
+    color: white;
+}
+
 /* Recommended */
 .status-badge.recommended {
     background-color: #1E90FF;

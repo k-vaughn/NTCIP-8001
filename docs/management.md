@@ -6,11 +6,15 @@
 
 # Policy, Process and Procedure Management
 
+!!! question
+    Is this section needed? For example, this is a process, control and management document, so its approval process is defined herein. Do we really need a statement about shall and must?
+
+
 ## Policy, Process and Procedure Development
 
 It is the responsibility of the NTCIP JC to approve the policies, processes and procedures for the NTCIP Project. The NTCIP Coordinator reviews the policies, processes, and procedures with the NTCIP JC on a yearly basis to determine their effectiveness. The steps for establishing a new policy, process or procedure are as follows:
 
-1. Any contributor to the project may make a proposal to the NTCIP JC Chairs or the NTCIP Coordinator that the policies, processes and procedures be updated to cover a matter concerning the NTCIP project.
+1. Any contributor may make a proposal to the NTCIP JC Chairs or the NTCIP Coordinator that the policies, processes and procedures be updated to cover a matter concerning the NTCIP project.
 2. The NTCIP JC Chairs and the NTCIP Coordinator discuss the proposal and determine if it is appropriate for consideration by the NTCIP JC.
 3. If the NTCIP JC Chairs and the NTCIP Coordinator determine that the proposal is appropriate for NTCIP JC consideration, then the proposal is presented to the NTCIP JC for discussion; otherwise, the proposal is denied and the contributor is notified.
 4. If it is the consensus of the NTCIP JC that the update to the policies, processes and procedures is to be developed, then a) a resource (or resource team) is identified to draft the policies, processes and procedures and b) a schedule is established for completion of the work; otherwise, the proposal is denied and the contributor is notified.
