@@ -26,6 +26,7 @@
         "Larmouth",
         "linenums",
         "Mgmt",
+        "mkdocs",
         "modulereference",
         "modulereferernce",
         "noopener",
@@ -33,6 +34,7 @@
         "NTICP",
         "Postel",
         "pygments",
+        "pymdown",
         "pymdownx",
         "recuse",
         "resetable",
@@ -58,6 +60,7 @@
         "vacm",
         "valuereference",
         "VCOID",
+        "weasyprint",
         "Zensical"
     ],
     "cSpell.language": "en-US"
