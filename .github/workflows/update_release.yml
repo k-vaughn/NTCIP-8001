@@ -70,8 +70,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Zensical build command
+          # Build the site with Zensical (outputs to the default 'site' directory)
           zensical build
 
+          # Deploy using mike - explicitly pass config so it doesn't search for mkdocs.yml
           mike set-default --push latest --allow-undefined
-          mike deploy --branch=gh-pages --push --update-aliases $RELEASE_TAG latest
+
+          mike deploy \
+            --branch=gh-pages \
+            --push \
+            --update-aliases \
+            --config-file mkdocs.yml \
+            $RELEASE_TAG latest

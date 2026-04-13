@@ -1,0 +1,6 @@
+# Minimal mkdocs.yml - required only for mike compatibility with Zensical
+# Do NOT add any other settings here. All real configuration should go in zensical.toml
+
+site_name: "NTCIP 8001"   # ← Change this to your actual site title (required by mike)
+
+# Everything else is handled by zensical.toml or Zensical defaults
