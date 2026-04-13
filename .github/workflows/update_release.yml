@@ -76,3 +76,9 @@ jobs:
 
           # Deploy with mike - explicitly point to the minimal mkdocs.yml
           mike set-default --push latest --allow-undefined
+
+          mike deploy \
+          --branch=gh-pages \
+          --push \
+          --update-aliases \
+          $RELEASE_TAG latest
