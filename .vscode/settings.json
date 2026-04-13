@@ -30,11 +30,14 @@
         "modulereferernce",
         "noopener",
         "noreferrer",
+        "NTICP",
         "Postel",
         "pygments",
         "pymdownx",
+        "recuse",
         "resetable",
         "RMON",
+        "RONR",
         "Rosslyn",
         "Rumbaugh",
         "shortway",
@@ -46,12 +49,16 @@
         "tablesort",
         "tcip",
         "tmdd",
+        "Transnet",
         "twemoji",
         "typereference",
         "typereferences",
         "Ubyte",
+        "USDOT",
         "vacm",
         "valuereference",
-        "VCOID"
-    ]
+        "VCOID",
+        "Zensical"
+    ],
+    "cSpell.language": "en-US"
 }

@@ -1,22 +1,29 @@
 {% extends "base.html" %}
 
-{% block toc %}
-<div class="md-sidebar__title">
-    <h2 class="md-sidebar__title-content">{{ page.meta.title or page.title }}</h2>
-</div>
-{{ super() }} <!-- This ensures the rest of the Table of Contents list is displayed -->
-{% endblock %}
-
-
 {% block announce %}
-<!--  <p class="status-badge proposal">Proposal: This is a newly proposed project that does not yet reflect broad community input</p>
--->
-<p class="status-badge draft">Draft: This is a draft document that is subject to significant changes at any time</p>
-<!--  <p class="status-badge preliminary">Preliminary: This is a preliminary document and may experience changes prior to finalization</p> -->
-<!--  <p class="status-badge recommended">Recommended: This document has been recommended for balloting but is not yet approved</p> -->
-<!--  <p class="status-badge ifr">IFR: This is an approved Interim for Field Release (IFR) document</p> -->
-<!--  <p class="status-badge approved">This is an approved formal standard</p> -->
+
+{% set official_status = "draft" %}
+
+{% set status_text = {
+  "proposal": "Proposal: This is a newly proposed project that does not yet reflect broad community input",
+  "draft": "Draft: This is a draft document that is subject to significant changes at any time",
+  "preliminary": "Preliminary: This is a preliminary document and may experience changes prior to finalization",
+  "recommended": "Recommended: This document has been recommended for balloting but is not yet approved",
+  "ifr": "IFR: This is an approved Interim for Field Release (IFR) document",
+  "approved": "Approved: This is an approved formal standard"
+} %}
+
+<p
+  id="doc-status"
+  class="status-badge {{ official_status }}"
+  data-status="{{ official_status }}"
+  data-official-url="{{ config.site_url }}"
+>
+  {{ status_text[official_status] }}
+</p>
+
 {% endblock %}
+
 
 {% block outdated %}
 You're not viewing the latest version.

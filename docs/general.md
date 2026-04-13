@@ -6,6 +6,9 @@
 
 # General {.body}
 
+!!! question
+    Should this be considered version 1, 2, or 3; or perhaps 1.1 or 1.2, or 2.1?
+
 ## Scope {.body}
 
 This document contains the policies, processes and procedures that provide the operational framework for the development and maintenance of NTCIP standards and supporting documents. It is not a comprehensive organizational-type document or manual. It is used to establish policies that are deemed important to maintaining the integrity of the NTCIP project’s products and to define processes and procedures that ensure repeated success. The procedures described in this document are the result of a number of years of evolution, driven both by the needs of the growing and increasingly diverse community, and by experience.
@@ -37,7 +40,9 @@ Draft amendments, which are under discussion by the relevant NTCIP Working Group
 
 ## General Statements {.body}
 
-NTCIP 8001 v02 provides the framework for the development and management of the standards and other supporting documents that make up the enterprise known as the National Transportation Communications for ITS Protocol (NTCIP) joint standardization project. It has been developed for:
+### Document Overview
+
+This document provides the framework for the development and management of the standards and other supporting documents that make up the enterprise known as the National Transportation Communications for ITS Protocol (NTCIP) joint standardization project. It has been developed for:
 
 1. The standards development organizations (SDOs), American Association of State Highway and Transportation Officials (AASHTO), Institute of Transportation Engineers (ITE), and National Electrical Manufacturers Association (NEMA), that have joined in a memorandum of understanding (MOU) to develop NTCIP standards;
 2. The consultants, manufacturers, and public transportation professionals who participate in the development of NTCIP standards providing domain expertise, quality assurance, assistance to deployers, and ongoing standards maintenance;
@@ -50,8 +55,11 @@ The remainder of this document is broken into the following chapters:
 - **Management** – Describes how policies, processes and procedures are developed and maintained;
 - **Policies** – Contains the policies of the NTCIP project;
 - **Processes** – Contains the processes of the NTCIP project;
-- **Procedures** – Contains the processes of the NTCIP project; and
-- **Appendices** – Proposed Additions and Modifications.
+- **Procedures** – Contains the procedures related to the NTCIP project; and
+- **Annex A** – Proposals that have not yet been incorporated.
+- **Annex B** - Policies, processes, and procedures that have been withdrawn or superseded.
+
+### Distinction among Policies, Processes, and Procedures
 
 Policies, processes and procedures serve different purposes:
 
@@ -60,6 +68,25 @@ Policies, processes and procedures serve different purposes:
 - A _procedure_ tells how a series of tasks are performed to achieve a specific outcome. For purposes of this document, procedures can include forms, checklists, templates, or other items used in the operation of the project.
 
 A policy can exist without an associated process or procedure, either because they are not necessary or because a specific process or procedure has not yet been developed. A policy can be associated to multiple processes and procedures.
+
+### Word Choice
+
+Polices, processes and procedures are written in the present tense and avoid the use of the word "shall". Instead, the document uses "must" for an obligation, "must not" for a prohibition, "may" for a discretionary action and "should" for a recommendation.
+
+### Metadata
+
+Each policy, process, and procedure has the following metadata:
+
+- Section Number and Title – The title is not to be excessively long.
+- Effective Date – Date when the policy took effect.
+- Approved By – Typically the NTCIP Coordinator or the NTCIP JC.
+- Contact – The point of contact associated for the item. The point of contact is to be one of the project rolls identified in Section 1.4.
+- Supersedes – Title and date of any policies superseded by this policy.
+- Last Reviewed/Updated – Date when the policy was last reviewed or updated.
+- Applies To – The project rolls of those the policy applies to.
+- History – History of major changes to the policy.
+- Related Items – Items that have a related concern or are causally connected.
+- Details – State the policy, process, or procedure. Include: a) the situation(s) when it does or does not apply, b) the major conditions or restrictions and c) any exclusions or special situations.
 
 ## Terms {.body}
 

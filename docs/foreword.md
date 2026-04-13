@@ -2,15 +2,16 @@
 
 ## Overview
 
-This document is an NTCIP Open-Source NTCIP Process, Control, and Information Management document provided as Interim for Field Release (IFR).
+This NTCIP Process, Control, and Information Management document was developed using the NTCIP Online Development Process.
 
-Open-source documents are developed using the ITS Open-Source Process, as defined in NTCIP 8008. This process provides an open standards development process that accepts issues reported by the community and resolved by peer-reviewed contributions from the community. The open source process concludes with the resultant material being approved by the defined approval process.
+The NTCIP Online Development Process is defined in NTCIP 8001 and NTCIP 8008. This process provides an open standards development process that accepts issues reported by the community and resolved by peer-reviewed contributions from the community. The open source process concludes with the resultant material being approved by the defined approval process.
 
-IFR documents are approved through a streamlined process focused on the technical experts of the community (e.g., those participating in the open-source development process) rather than through a formal ballot of industry managers.
+
+The NTCIP Online Development Process is a streamlined process focused on gaining consensus from the technical experts of the community (e.g., those participating in the open-source development process) rather than requiring every change to occur through a formal ballot of industry managers.
 
 NTCIP Process, Control, and Information Management documents define the practices and policies used by the NTCIP Joint Committee and its working groups in developing and maintaining NTCIP publications.
 
-NTCIP 8001 NTCIP Joint Standardization Policies, Processes and Procedures v03 has been prepared for the National Transportation Communications for ITS Protocol (NTCIP) project for use by the NTCIP Joint Committee which oversees the NTCIP project, the NTCIP standard development organizations (SDOs) which jointly approve NTCIP standards, the NTCIP Coordinator who administers the project, and all other stakeholders who participate in the development and maintenance of NTCIP standards.
+This document has been prepared for the National Transportation Communications for ITS Protocol (NTCIP) project for use by the NTCIP Joint Committee which oversees the NTCIP project, the NTCIP standard development organizations (SDOs) which jointly approve NTCIP standards, the NTCIP Coordinator who administers the project, and all other stakeholders who participate in the development and maintenance of NTCIP standards.
 
 ## Approvals
 
