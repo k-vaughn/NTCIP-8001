@@ -28,7 +28,8 @@ jobs:
           sudo apt install -y weasyprint
           pip install zensical
           pip install mkdocs-git-revision-date-localized-plugin
-          pip install mike pymdown-extensions
+          pip install "mike@git+https://github.com/squidfunk/mike.git"
+          pip install pymdown-extensions
           npm install -g @mermaid-js/mermaid-cli
 
       # Step 4: Get release tag, fall back to current date and time if no tag exists
@@ -62,7 +63,7 @@ jobs:
       - name: Set EXPORT_PDF environment variable
         run: echo "EXPORT_PDF=1" >> $GITHUB_ENV
 
-      # Step 8: Build and deploy the site with mike
+      # Step 8: Build and deploy with mike (Zensical version)
       - name: Build and deploy with mike
         run: |
           RELEASE_TAG=${{ env.RELEASE_TAG }}
@@ -70,14 +71,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Build the site with Zensical (outputs to the default 'site' directory)
-          zensical build
+          # Build the site using your zensical.toml (Zensical prefers it if present)
+          zensical build --clean
 
-          # Deploy using mike - explicitly pass config so it doesn't search for mkdocs.yml
+          # Deploy with mike - explicitly point to the minimal mkdocs.yml
           mike set-default --push latest --allow-undefined
 
           mike deploy \
             --branch=gh-pages \
             --push \
             --update-aliases \
+            --config-file mkdocs.yml \
             $RELEASE_TAG latest
