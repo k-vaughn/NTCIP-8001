@@ -80,5 +80,4 @@ jobs:
             --branch=gh-pages \
             --push \
             --update-aliases \
-            --config-file mkdocs.yml \
             $RELEASE_TAG latest
