@@ -75,4 +75,4 @@ jobs:
           zensical build --clean
 
           # Deploy with mike - explicitly point to the minimal mkdocs.yml
-          # mike set-default --push latest --allow-undefined
+          mike set-default --push latest --allow-undefined
