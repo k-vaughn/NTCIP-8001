@@ -277,10 +277,8 @@ A member of the NTCIP JC can resign or be removed by the nominating SDO at any t
 
 #### Member Assignment {.body}
 
-!!! question
-    One of the challenges that we have had to date is handling membership. Further, as I reviewed various documents, I realized that we do not currently conform to ANSI requirements for balance (especially for safety-related standards). We currently only divide between public and private sector - at best achieving 50% balance - and have no mechanism to ensure balanced voting - i.e., while membership is balanced, voting can be highly skewed. Further, there has been significant problems in achieving quorum at times, which has resulted in significant delays in voting. This is even true on groups where voting membership was based on attendance at early meetings only to see active members become inactive due to other work commitments. Finally, there have been complaints voiced about some active non-voting members not being allowed to register their dissenting votes on documents. The following proposal (membership, quorum, and voting) is an attempt to overcome these challenges while trying to keep the spirit of the existing structure as much as possible.
-
-    Is this appropriate? Do we need to add any additional safe-guards (e.g., should it still be considered a quorum if only 6 people show up to a meeting if the group had an average of 30 at its 3 previous meetings?)
+!!! question "For JC Discussion"
+    Voting membership on the WGs has become an issue. The current NTCIP policies also do not align with ANSI requirements for balance for safety-related standards (i.e., no interest category forming more than 1/3 of the vote). We currently only divide between public and private sector - at best achieving 50% balance - and have no mechanism to ensure balanced voting - i.e., while membership is balanced, voting can be highly skewed if attendance is not balanced. Further, there has been significant problems in achieving quorum at times, which has resulted in significant delays in voting. This is even true on groups where voting membership was based on attendance at early meetings only to see active members become inactive due to other work commitments. Finally, there have been complaints voiced about some active non-voting members not being allowed to register their dissenting votes on documents. This text has been revised to reflect the consensus of the WG but needs review by the JC. 
 
 Membership within each NTCIP group is by organization (i.e., the employer of the group member). For each group, each member is assigned to one of the following membership categories:
     - Producer (i.e., manufacturer of the relevant device or third party provider)
@@ -294,11 +292,13 @@ Membership within each NTCIP group is by organization (i.e., the employer of the
         - Others
     - Observer (i.e., any non-voting entity)
 
-Membership categories for an organization can vary by group (e.g., an ASC manufacturer would be a manufacturer on the ASC WG but could be general interest for the RSU WG if they do not manufacturer RSUs) but changing the membership category of an organization within a WG requires a 2/3rds majority vote of the WG voters present.
+Any entity can participate at any meeting as an observer. Voting members can be appointed by the JC Chair or by the prospective member attending at least 3 successive meetings. Voting membership lapses to observer status upon missing 3 consecutive meetings. Voting membership can be reinstated by attending at least 3 successive meetings.
 
-Membership within WGs must remain balanced with one-third representation each from producers, users, and general interest. Membership in AGs and AHGs default to the same one-third rule, but, because they do not directly work on products for public consumption, can be more flexible at the direction of the JC, as deemed appropriate. For example, an ad-hoc group focused on gaining feedback from public agencies regarding education needs could be limited the "user" category.
+Membership categories for an organization can vary by group (e.g., an ASC manufacturer would be a manufacturer on the ASC WG but could be general interest for the DMS WG if they do not manufacturer RSUs) but changing the membership category of an organization within a WG requires a 2/3rds majority vote of the WG voters present.
 
-Membership within any group (exclusive of the JC) is open to any organization with an vested interest in ITS. Each organization shall designate a primary representative to cast its votes; alternates can be designated as well to ensure representation when the primary member is not present. Organizations can elect to be observers, in which case, they are not included in votes.
+Voting within WGs must remain balanced with one-third representation each from producers, users, and general interest. This is achieved by weighting the votes from each interest category. Membership in AGs and AHGs default to the same one-third rule, but, because they do not directly work on products for public consumption, can be more flexible at the direction of the JC, as deemed appropriate. For example, an ad-hoc group focused on gaining feedback from public agencies regarding education needs could be limited the "user" category.
+
+Membership within any group (exclusive of the JC) is open to any organization with a vested interest in ITS. Each organization shall designate a primary representative to cast its votes; alternates can be designated as well to ensure representation when the primary member is not present. Organizations can elect to be observers, in which case, they are not included in votes or quorum determination.
 
 #### Responsibilities {.body}
 
@@ -483,13 +483,13 @@ From its inception, the NTCIP project has been, and is expected to remain, an ev
 
 ~~The NTCIP standards development process is shown in Figure 2. It includes steps of increasing levels of review and endorsement. Within each level, there are also several steps related to specific activities that take place.~~
 
-### Document Approval Processes
+### Document Approval Processes {.body}
 
-#### Overview
+#### Overview {.body}
 
-The NTCIP has three approval processes resulting in different levels of standardization as presented below. The three processes mainly differ in the number of iterations that are required and who approves the final document, whereas the [Steps](#process-steps-body) required within the process are consistent among the processes.
+The NTCIP has three approval processes resulting in different levels of standardization as presented below. The three processes mainly differ in the number of iterations that are required and who approves the final document, whereas the [Steps](#process-steps) required within the process are consistent among the processes.
 
-#### NTCIP Interim for Field Release (IFR)
+#### NTCIP Interim for Field Release (IFR) {.body}
 
 The IFR process does not include a distinct user comment stage; instead, it requires the use of the [online development process](https://ite-org.github.io/NTCIP-8008/) to gather comments during drafting.
 
@@ -512,7 +512,18 @@ The IFR process does not include a distinct user comment stage; instead, it requ
     4. WG can rescind patch
 5. SDO Publishes as IFR
 
-#### NTCIP JC Recommended Standard (JRS)
+!!! question
+    We need to clarify what constitutes a "semantic change", a "new feature", and "backwards compatible" for the following diagram
+
+!!! question
+    Replace the following with a GraphViz figure
+
+<figure markdown>
+![IFR approval process](assets/img/ifr-process.png)
+<figcaption>Figure 2: IFR approval process</figcaption>
+</figure>
+
+#### NTCIP JC Recommended Standard (JRS) {.body}
 
 1. Assign a standards work item to a WG with a JRS target
 2. WG drafts document
@@ -527,7 +538,7 @@ The IFR process does not include a distinct user comment stage; instead, it requ
 11. JC approves document as JRS
 12. SDO publishes as JRS
 
-#### NTCIP Standard
+#### NTCIP Standard {.body}
 
 1. Assign a standards work item to a WG with a full standard target
 2. WG drafts document
@@ -545,12 +556,15 @@ The IFR process does not include a distinct user comment stage; instead, it requ
 14. SDOs approve as full standard
 15. SDO publishes as full standard
 
+!!! question
+    Replace the following with a GraphViz figure
+
 <figure markdown>
 ![Standards development process](assets/img/standards-process.png)
-<figcaption>Figure 2: Standards development process</figcaption>
+<figcaption>Figure 3: Standards development process</figcaption>
 </figure>
 
-### ~~Process~~ Steps {.body}
+### Process Steps {.body}
 
 #### JC Assigns a Standards Work Item to a WG {.body}
 

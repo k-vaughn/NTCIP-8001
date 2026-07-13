@@ -102,7 +102,7 @@ The procedures for membership and leadership and of the NTCIP JC are established
 | **History**               | 6/21/2018 Decreased the number of votes required for Recommended Standards and User Comment Drafts. 9/30/2017 This procedure on meeting Requirements of the NTCIP JC changes the previous practices in NTCIP 8001 v01.08 that assumed a full 18 voting member NTCIP Joint Committee to one that is based on the current number of voting members. Made change to requirement of a simple majority. |
 | **Related Procedures**    | None                                   |
 
-### Meeting Rules
+### Meeting Rules {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
@@ -119,33 +119,39 @@ The procedures for membership and leadership and of the NTCIP JC are established
 
 Much of the work of the NTCIP JC occurs in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP JC are described below.
 
-##### Parliamentary Authority
+##### Parliamentary Authority {.body}
 
 The parliamentary authority of the NTCIP JC follows Robert's Rules of Order Newly Revised (RONR). RONR governs in all cases to which they are applicable and in which they are not inconsistent with this policies, processes and procedures document.
 
-##### Quorum
+##### Quorum {.body}
 
 The number of members required to hold a meeting of the NTCIP JC is one-third (1/3) or more of the current NTCIP JC voting membership with at least one voting member present from each of the NTCIP SDOs. For example, if there are 17 voting members, then one-third is 5.67 which means that there are 6 voting members present or more required.
 
-##### Voting: pRS to RS
+##### Voting
+
+Votes on matters before the committee may be taken either within a committee meeting or through an electronic ballot.
+
+For votes conducted within a committee meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such advance votes must be received by the chair of the committee or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
+
+##### Voting: pRS to RS {.body}
 
 ~~This is t~~^^T^^he number of votes required for the NTCIP JC to accept a pRS as an RS ~~or to accept a pRE as an RE. A recommended majority~~ is two-thirds (2/3s) or more ^^of those present^^ ~~affirmative votes~~ at a meeting where a quorum is present. For example, if there are 17 voting members and 10 voting members present at a meeting, then ^^the number of affirmative votes required to pass the motion is greater than or equal to 10*2/3 =^^ 6.67, which ^^effectively^^ means ~~there are~~^^at least^^ 7 affirmative votes ^^are^^~~or more~~ required.
 
 !!! question
     The requirement seemed to be based on 2/3rds of votes cast versus the example was based on 2/3rds of those present. This results in an ambiguity if there are abstentions. Which one captures the intent?
 
-##### Voting: pUCD to UCD
+##### Voting: pUCD to UCD {.body}
 
 Affirmative Votes for a User Comment Draft: ~~This is t~~^^T^^he number of votes required for the NTCIP JC to accept a pUCD as an UCD~~. A user comment majority~~ is one-half plus one (1/2 + 1) or more ~~affirmative votes~~ ^^of those present^^ at a meeting where a quorum is present. For example, if there are 17 voting members and ~~10~~ ^^11^^ voting members present at a meeting, then ^^the number of affirmative votes required to pass the motion is greater than or equal to 11/2 + 1 = 6.^^ ~~one-half is ~~5^^,^^ which ^^effectively^^ means that ~~there are~~^^at least 7^^ ~~6~~ affirmative votes ^^are^^~~or more~~ required.
 
 !!! question "Discussion"
     The requirement seemed to be based on 2/3rds of votes cast versus the example was based on 2/3rds of those present. This results in an ambiguity if there are abstentions. Which one captures the intent? The text for "half + 1 or more" is also confusing and the example did not clarify this. While this could perhaps be interpreted as a simple majority (i.e., >50%); the distinct clause with different wording suggests that a slightly higher bar was intended.
 
-##### Voting: Simple Majority
+##### Voting: Simple Majority {.body}
 
 Votes for Simple Majority: This is number of votes required for general decisions by the NTCIP JC not otherwise covered in this section. A simple majority vote is more than half the votes cast. A quorum must be present. Abstentions are not counted. For example, if there are six voting members present at a meeting and the quorum requirement is met, then a vote of two yeas, one nay and three abstentions results in a motion passing. In the same meeting, a vote of three yeas and three nays results in a motion failing because a majority was not achieved.
 
-##### Voting between Meetings
+##### Voting between Meetings {.body}
 
 Acceptance Actions Between Meetings of the NTCIP JC: ~~Acceptance actions by the NTCIP JC are those when a vote is taken to accept a pUCD as a UCD, to accept a pRS as an RS, or to accept a pRE as an RE.~~ Typically, acceptance actions are completed as part of an NTCIP JC meeting. There are circumstances, however, when the NTCIP JC may determine that it is prudent to complete an acceptance action outside of a meeting. This may be done because the NTCIP JC members need more time to review a proposed document before voting, there are not enough voting members at the meeting to perform the vote, or some other reason. In such cases, an electronic ballot may be used outside of the NTCIP JC meeting as follows:
 
@@ -182,6 +188,12 @@ This section contains the procedures that primarily address activities of the NT
 |**Applies To:**            |NTCIP Joint Committee and Working Groups|
 | **History**               |This procedure on meeting NTCIP WG Organization changes abilities on observing members. NTCIP Working Group Bylaws in NTCIP 8001 v01.08 so that observing members may be assigned tasks at the WG Chair’s discretion.|
 | **Related Procedures**    | 5.1.1 Creating an NTCIP Working Group  |
+
+#### Voting
+
+Votes on matters before the group may be taken either within a group meeting or through an electronic ballot.
+
+For votes conducted within a group meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such advance votes must be received by the chair of the group or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
 
 #### Procedure Statement {.body}
 

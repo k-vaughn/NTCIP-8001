@@ -4,10 +4,10 @@ If you believe you have discovered a potential security issue or vulnerability
 in this project, related project, related component, related backend systems, or
 anything that may compromise the integrity and well-being of our projects,
 please disclose it to us by emailing
-**[ntcip@nema.org](mailto:ntcip@nema.org)**. Please do not report security
+**[standards@ite.org](mailto:standards@ite.org)**. Please do not report security
 vulnerabilities through public GitHub issues, pull requests, discussions, or any
 other public forum. Only report issues via the
-**[ntcip@nema.org](mailto:ntcip@nema.org)** email. An engineer from our team
+**[standards@ite.org](mailto:standards@ite.org)** email. An engineer from our team
 will be in touch with you as soon as possible.
 
 ## What to Include in Your Report?

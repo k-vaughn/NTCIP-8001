@@ -26,7 +26,7 @@ The policies defined in this section are largely based on the ANSI Essential Req
 
 Participation in the NTCIP standards process is open to anyone materially interested in its work. There are no fees for participation nor are there any requirements for membership in any organization.
 
-New and revamped NTCIP efforts are publicized within industry publications and discussed at industry meetings to encourage broad stakeholder input. Each current activity
+New and revamped NTCIP efforts are publicized within industry publications and discussed at industry meetings to encourage broad stakeholder input.
 
 Membership lists for each active WG are maintained and available upon request, along with each member's affiliation.
 
@@ -48,9 +48,6 @@ The NTCIP effort ensures a lack of dominance by any single interest category, in
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-!!! note
-    Updated text
-
 The NTCIP structure attempts to respect the ANSI requirements for balance, which requires that no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. Per ANSI, the interest categories are generally defined as:
     - producer,
     - user, and
@@ -58,7 +55,7 @@ The NTCIP structure attempts to respect the ANSI requirements for balance, which
 
 Within the 18 member Joint Committee on the NTCIP, which is achieved by granting 6 voting members to each of the 3 SDOs, where NEMA representatives are considered producers, AASHTO representatives are considered users, and ITE representatives are considered general interest.
 
-At the group level, the technical details can change a representative's interest category. For example, a manufacturer that only produces signal controllers would likely be categorized as a producer for the ASC WG, a a user in the RSU WG, and general interest for the DMS WG. Because groups tend to meet more frequently than the NTCIP JC, maintaining balance at every meeting often proves more challenging. Thus, to address balance within groups, the votes are weighted to ensure that each of the three interest categories represent 1/3rd of the vote total.
+At the group level, the technical details can change a representative's interest category. For example, a manufacturer that only produces signal controllers would likely be categorized as a producer for the ASC WG, as a user in the RSU WG, and general interest for the DMS WG. Because groups tend to meet more frequently than the NTCIP JC, maintaining balance at every meeting often proves more challenging. Thus, to address balance within groups, the votes are weighted to ensure that each of the three interest categories represent 1/3rd of the vote total.
 
 !!! example
     At the WG level, if a vote includes four producers, two users, and one general interest, each producer's vote would be 1/12 of the total; each user's vote would be 1/6 of the total and the general interest voter's vote would count as 1/3 of the total.
@@ -106,9 +103,6 @@ The NTCIP effort will announce its major actions in major industry publications 
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-!!! note
-    Updated text
-
 Written comments and objections submitted on any NTCIP document or proposed effort will be recorded by a defined process (e.g., directly by NTCIP staff, through online management through GitHub Issues), which will identify a target time (e.g., one week) for the comment to be triaged and an acknowledgement sent. The acknowledgement may include a response (i.e., in the case of a simple issue) but will more often need to describe the process that will be used to address the comment (e.g., identify the WG that will be notified, whether that WG has a planned meeting, etc.). Once the review process is complete, the commenter will be notified of the resolution.
 
 Unresolved objections, along with the proposed response, will be reported to the parent approval body and members will be allowed to change their vote.
@@ -121,16 +115,9 @@ Unresolved objections, along with the proposed response, will be reported to the
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-Consensus is demonstrated for NTCIP documents based on the type of document:
+Consensus is demonstrated for NTCIP documents based on the type of vote, as defined in the procedures.
 
-!!! question
-    Is "no sustained objection" too broad? Should it perhaps be a 90% vote of the WG?
-
-- **Interim for Field Release:** No sustained objection recorded from any member of the document's editorial board, WG, or JC
-- **Recommended Standard:** 2/3rds majority vote of the JC
-- **Approved Standard:** No objections from any of the three SDOs
-
-The NTCIP effort will maintain records of consensus for a minimum of seven years.
+The NTCIP effort will maintain records of votes, comments, and objections for a minimum of seven years.
 
 ### Appeals {.body}
 
@@ -139,7 +126,7 @@ The NTCIP effort will maintain records of consensus for a minimum of seven years
 |**Effective Date:**        |September 30, 2026                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-Entities that are directly and materially interested in and who have been or will be adversely affected by any procedural action or inaction by the NTCIP effort can submit a written appeal to the NTCIP coordinator, any of the three SDOs, or to the chair of the JC.The appeals process will consider the perspectives of all involved in the process.
+Entities that are directly and materially interested in and who have been or will be adversely affected by any procedural action or inaction by the NTCIP effort can submit a written appeal to the NTCIP coordinator, any of the three SDOs, or to the chair of the JC. The appeals process will consider the perspectives of all involved in the process.
 
 Procedural appeals relate to whether the policies, processes, and procedures defined by this document were adequately followed or if documented failures were significant enough to call the result into question. A documented fixed fee may be associated with filing an appeal.
 
@@ -217,20 +204,17 @@ The NTCIP effort will retain the necessary documentation to demonstrate complian
 
 NTCIP documents will use the International System of Units (SI) as default.
 
-### Interpretations Policy {.body}
+### Clarification Policy {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-!!! note
-    Updated text
-
-Request for interpretation can be submitted to the NTCIP Coordinator or to through the online standards development platform (e.g., GitHub), if one is in use for the standard. The request will be reviewed by the appropriate WG and a proposed response will be provided.
+A request for clarification can be submitted to the [NTCIP Coordinator](mailto:standards@ite.org) or through the online standards development platform (e.g., GitHub), if one is in use for the standard. The request will be reviewed by the appropriate WG and a proposed response will be provided.
 
 !!! note
-    A "Clarification Request" issue type will be provided to facilitate the processing of such requests.
+    A "Clarification Request" issue type will be provided within GitHub to facilitate the processing of such requests.
 
 ## Documentation Policies {.body}
 
@@ -241,16 +225,18 @@ Request for interpretation can be submitted to the NTCIP Coordinator or to throu
 |**Effective Date:**        |September 30, 2017                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
+!!! question "For JC Review"
+    The WG recommends eliminating Amendments and Errata and to replace them with IFR documents. The IFR documents can still be Word/PDF documents, but are approved by the IFR process with semantic version numbers rather than stand-alone errata sheets (e.g., replacement pages).
+
 The NTCIP Effort recognizes the following types of documents:
 
 - Technical specifications: Documents that contain requirements (i.e., "shall" statements) that relate to products within the ITS industry.
-- Process, control, and management documents: Documents that define rules for the NTCIP effort, such as this document. Other such documents include documents that define details about the formats of NTCIP documents, rules for NTCIP MIBs, rules for using GitHub, etc.
-- Informational Reports: Documents that provide useful information for the industry but do not provide any requirements (e.g., the NTCIP Guide)
+- Process, control, and management documents: Documents that define rules for the NTCIP effort, such as this document. Other such documents include documents that define details about the formats of NTCIP documents, rules for NTCIP MIBs, rules for using GitHub, etc. (i.e., 8000 series)
+- Informational Reports: Documents that provide useful information for the industry but do not provide any requirements (i.e, 9000 series)
 - Registries: Documents that require frequent updates to reflect requests (e.g., the registry of manufacturer IDs).
-- Errata: Documents that correct errors contained in published versions of the former documents.
 
-!!! question
-    Do we want to continue support for amendments or errata given the way documents are now published? The 2017 version of 8001 deleted amendments, but we still seem to be using them.
+!!! note
+    The NTCIP effort historically supported amendment documents. These were used to correct technical errors, ambiguities, and/or editorial mistakes contained in published documents in a timely fashion. Early versions of these documents were published as short stand-alone paper documents. As the world migrated to electronic formats, the amendments were published as new minor editions of the major version of the standard. The migration to semantic version numbers with electronic documents (i.e., PDFs) and the IFR process negates the need to maintain the concept of an amendment. Instead, if a correction is needed to any document, the necessary edits should be made to the original document (i.e., either the Word document or website) along with an appropriately updated semantic version number and an explanation of the change in Annex D. The new version can be quickly approved using the IFR approval process, and if desired, the IFR approval can be followed by traditional standards approval process to demonstrate greater acceptance.
 
 ### Standardization Levels {.body}
 
@@ -267,7 +253,7 @@ The NTCIP effort recognizes three levels of standardization for its documents (o
 
 - Standard: A document that has been balloted and approved by all three SDOs through the traditional industry-wide balloting process. Standards are intended to show broad industry support for documents that 1) are considered very stable and will not need an update for several years and/or 2) represent a significant body of work that should be recognized as a solid baseline while work continues in the development of new features.
 - Recommended Standard: A document that has received the support of at least 2/3rds of the Joint Committee on the NTCIP. Recommended Standards are primarily intended for 1) an interim stage on the way to full standardization, and 2) the final stage for process, control, and management documents as these are intended to be documents for internal NTCIP management and generally do not benefit from broader industry ballots because all of the stakeholders are internal to the NTCIP.
-- Interim for Field Release: A document that has received the support of ==at least 90% of the respective WG membership== as being ready for initial field use. The Interim for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a technical specification. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
+- Interim Document for Field Release (IFR): A document that has received the support of ==at least 90% of the respective WG membership== as being ready for initial field use. The Interim Document for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a document. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
 
 ### Designators for Documents {.body}
 
