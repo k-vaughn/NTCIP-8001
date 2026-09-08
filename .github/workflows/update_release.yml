@@ -28,7 +28,8 @@ jobs:
       # Step 3: Install dependencies
       - name: Install dependencies
         run: |
-          sudo apt install -y weasyprint
+          sudo apt-get update
+          sudo apt-get install -y weasyprint
           pip install zensical
           pip install mkdocs-git-revision-date-localized-plugin
           pip install "mike@git+https://github.com/squidfunk/mike.git"
