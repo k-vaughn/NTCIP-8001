@@ -324,7 +324,3 @@ toggle.name = "Switch to light mode"
 
 [project.extra.version]
 provider = "mike"
-
-[project.plugins.git-revision-date-localized]
-enable_creation_date = true
-type = "date"
