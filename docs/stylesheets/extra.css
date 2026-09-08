@@ -164,3 +164,12 @@ p.opt::before {
 .md-typeset .footnote-list {
   list-style-type: decimal !important;
 }
+
+/* Icon colors */
+.checkmark {
+    color: green;
+}
+
+.xmark {
+    color: red;
+}

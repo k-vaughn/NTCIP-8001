@@ -48,20 +48,20 @@ The NTCIP effort ensures a lack of dominance by any single interest category, in
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-The NTCIP structure attempts to respect the ANSI requirements for balance, which requires that no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. Per ANSI, the interest categories are generally defined as:
-    - producer,
-    - user, and
-    - general interest
+The NTCIP structure attempts to respect the ANSI requirements for balance, which requires that no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. ANSI indicates that the following categories should be "considered":
 
-Within the 18 member Joint Committee on the NTCIP, which is achieved by granting 6 voting members to each of the 3 SDOs, where NEMA representatives are considered producers, AASHTO representatives are considered users, and ITE representatives are considered general interest.
+- producer,
+- user, and
+- general interest
 
-At the group level, the technical details can change a representative's interest category. For example, a manufacturer that only produces signal controllers would likely be categorized as a producer for the ASC WG, as a user in the RSU WG, and general interest for the DMS WG. Because groups tend to meet more frequently than the NTCIP JC, maintaining balance at every meeting often proves more challenging. Thus, to address balance within groups, the votes are weighted to ensure that each of the three interest categories represent 1/3rd of the vote total.
+Within the NTCIP, balance is achieved by refining these three categories as follows:
 
-!!! example
-    At the WG level, if a vote includes four producers, two users, and one general interest, each producer's vote would be 1/12 of the total; each user's vote would be 1/6 of the total and the general interest voter's vote would count as 1/3 of the total.
+- NEMA (generally reflecting producers),
+- AASHTO (generally reflecting users), and
+- ITE (generally reflecting general interest).
 
 !!! question "For JC Discussion"
-    Some have complained about how the current voting memberships are granted while public/private membership split does not satisfy the ANSI requirements  In addition, reaching quorum has also been a challenge at times. This text represents the current position of the WG on how to overcome these problems.
+    Some have complained about how the current voting memberships are granted while public/private membership split does not satisfy the ANSI requirements.  In addition, reaching quorum has also been a challenge at times. This text represents the current position of the WG on how to overcome these problems.
 
 ### Coordination and harmonization {.body}
 
@@ -89,11 +89,11 @@ The NTCIP effort will coordinate with other SDOs, as deemed appropriate, to ensu
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-The NTCIP effort will announce its major actions in major industry publications and websites, such as the _ITE Journal_ and the [ITE Website](https://www.ite.org). The major actions include:
+The NTCIP effort will announce its major actions in major industry publications and websites, such as the _ITE Journal_ and the [ITE Website](https://www.ite.org). Major actions include:
 
 - The start of a new or renewed standards effort
-- The start of a user comment draft
-- The start of the industry approval process
+- The start of a user comment draft (when using the traditional approval process)
+- The start of the industry approval process (for a full standard)
 
 ### Consideration of views and objections {.body}
 
@@ -193,7 +193,7 @@ The following discussions and/or exchanges of information by or among competitor
 |**Effective Date:**        |September 30, 2026                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-The NTCIP effort will retain the necessary documentation to demonstrate compliance with the policies, processes, and procedures defined in this document for a period of at least 5 years or one standard review period.
+The NTCIP effort will retain the necessary documentation to demonstrate compliance with the policies, processes, and procedures defined in this document for a period of at least seven (7) years or one standard review period.
 
 ### Metric Policy {.body}
 
@@ -226,7 +226,7 @@ A request for clarification can be submitted to the [NTCIP Coordinator](mailto:s
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
 !!! question "For JC Review"
-    The WG recommends eliminating Amendments and Errata and to replace them with IFR documents. The IFR documents can still be Word/PDF documents, but are approved by the IFR process with semantic version numbers rather than stand-alone errata sheets (e.g., replacement pages).
+    The WG recommends eliminating Amendments and Errata and to replace them with previously approved semantic version numbers. In other words, rather than issuing a partial document as an amendment, the document should be revised and the semantic version number updated as appropriate based on the extent of changes. The new edition can then be approved using the IFR or traditional process. IFR documents can still be Word/PDF documents.
 
 The NTCIP Effort recognizes the following types of documents:
 
@@ -236,7 +236,7 @@ The NTCIP Effort recognizes the following types of documents:
 - Registries: Documents that require frequent updates to reflect requests (e.g., the registry of manufacturer IDs).
 
 !!! note
-    The NTCIP effort historically supported amendment documents. These were used to correct technical errors, ambiguities, and/or editorial mistakes contained in published documents in a timely fashion. Early versions of these documents were published as short stand-alone paper documents. As the world migrated to electronic formats, the amendments were published as new minor editions of the major version of the standard. The migration to semantic version numbers with electronic documents (i.e., PDFs) and the IFR process negates the need to maintain the concept of an amendment. Instead, if a correction is needed to any document, the necessary edits should be made to the original document (i.e., either the Word document or website) along with an appropriately updated semantic version number and an explanation of the change in Annex D. The new version can be quickly approved using the IFR approval process, and if desired, the IFR approval can be followed by traditional standards approval process to demonstrate greater acceptance.
+    The NTCIP effort historically supported amendment documents. These were used to correct technical errors, ambiguities, and/or editorial mistakes contained in published documents in a timely fashion. Early versions of these documents were published as short stand-alone paper documents. As the world migrated to electronic formats, the amendments were published as new minor editions of the major version of the standard. The migration to semantic version numbers rather than the prior versioning scheme negates the need to maintain the concept of an amendment. Instead, if a correction is needed to any document, the necessary edits should be made to the original document (i.e., either the Word document or website) along with an appropriately updated semantic version number and an explanation of the change (within the Annexes. The new version can be quickly approved using the IFR approval process, and if desired, the IFR approval can be followed by traditional standards approval process to demonstrate greater acceptance.
 
 ### Standardization Levels {.body}
 
@@ -251,9 +251,9 @@ The NTCIP effort recognizes three levels of standardization for its documents (o
 !!! question
     Do we still want to use the term "Recommended Standard"? Some have pointed out that the term is confusing as it could imply the document is already a standard **and** is recommended, whereas the intent is that it is recommended for standardization. Maybe something like "Joint Recommendation" would be better?
 
-- Standard: A document that has been balloted and approved by all three SDOs through the traditional industry-wide balloting process. Standards are intended to show broad industry support for documents that 1) are considered very stable and will not need an update for several years and/or 2) represent a significant body of work that should be recognized as a solid baseline while work continues in the development of new features.
-- Recommended Standard: A document that has received the support of at least 2/3rds of the Joint Committee on the NTCIP. Recommended Standards are primarily intended for 1) an interim stage on the way to full standardization, and 2) the final stage for process, control, and management documents as these are intended to be documents for internal NTCIP management and generally do not benefit from broader industry ballots because all of the stakeholders are internal to the NTCIP.
-- Interim Document for Field Release (IFR): A document that has received the support of ==at least 90% of the respective WG membership== as being ready for initial field use. The Interim Document for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a document. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
+- (Full) Standard: A document that has been balloted and approved by all three SDOs through the traditional industry-wide balloting process. Standards are intended to show broad industry support for documents that 1) are considered very stable and will not need a major update for several years and/or 2) represent a significant body of work that should be recognized as a solid baseline while work continues in the development of new features.
+- Recommended Standard: A document that has received the support of the Joint Committee on the NTCIP. Recommended Standards are primarily intended for 1) an interim stage on the way to full standardization, and 2) the final stage for process, control, and management documents as these are intended to be documents for internal NTCIP management and generally do not benefit from broader industry ballots because all of the stakeholders are internal to the NTCIP.
+- Interim Document for Field Release (IFR): A document that represents current thinking of the NTCIP organization and met the defined criteria for being ready for implementation and field use. The Interim Document for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a document. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
 
 ### Designators for Documents {.body}
 
@@ -262,67 +262,13 @@ The NTCIP effort recognizes three levels of standardization for its documents (o
 |**Effective Date:**        |September 30, 2017                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
 
-All NTCIP documents have the same basic naming convention. The full title of any NTCIP document is of the following format, with explanations as below:
+All NTCIP documents will follow a common formulaic naming convention that will 
 
-``` asn1
-    Designator ::= "NTCIP" Number Version Title
-    Number ::= Integer
-    Version ::= Stage ErrataCode "v"SemanticVersion
-    Stage ::= empty | "RS" | "IFR" | "Draft"
-    ErrataCode ::= empty | "Errata"
-    SemanticVersion ::= MajorVersion"."MinorVersion"."Patch["-"PreRelease]
-    MajorVersion ::= Integer
-    MinorVersion ::= Integer
-    Patch ::= Integer
-    PreRelease ::= PreReleaseStage["."PreReleaseNumber]
-    PreReleaseStage ::= "alpha" | "beta" | "cd" | "cr" | "pRS"
-    PreReleaseNumber ::= Integer
-```
-
-The Number field shall always be present and shall be a value assigned by the NTCIP coordinator. At present, all assigned values are 4 digits in length with the following implied semantics:
-
-- Base standards have "11" as the first two digits.
-- Object definition standards have "12" as the first two digits.
-- Subnet profiles have "21" as the first two digits.
-- Transnet profiles have "22" as the first two digits.
-- Application/Facility profiles have "23" as the first two digits.
-- Process, control, and management documents have an "8" as the first digit.
-- Informational reports have a "9" as the first digit.
-
-The stage code will be as follows:
-
-- Fully approved standards will have an empty stage code
-- Recommended standards will use the "RS" stage code
-- Interim for Field Release will use the "IFR" stage code
-- All other releases will use "Draft" as the stage code
-
-For fully approved standards, RS, and IFRs, the MajorVersion, MinorVersion, and Patch numbers indicate a semantic version number of the released document. These documents do not include a PreRelease value.
-
-The MajorVersion will indicate the major version number associated with the standard per semantic versioning rules. For documents that have never previously been approved, the major version will be "0". Revisions to previous work will use the previous major version number only if the new version is backwards compatible with the prior version; otherwise, the major version will be incremented by one.
-
-The MinorVersion will indicate the minor version number associated with the standard per semantic versioning rules. For documents that have never previously been approved, the minor version will indicate a rough scale of completeness to version 1 on a 10-point scale (e.g., a 50% complete document would start with a version number of "0.5"). Revisions to previous work that reuse the previous major version number will only use the same minor version number if no new features are added; otherwise the minor version increments by one. Revisions to previous work that result in a change to the major version number will reset the minor version number to zero.
-
-The Patch will indicate the patch number associated with the standard per semantic versioning rules. For documents that have never previously been approved, the patch will indicate an incrementing number from zero within the indicated minor version number. Revisions to previous work that reuse the previous major and minor version numbers will increment the patch number. Revisions to previous work that result in a change to the major or minor version numbers will reset the patch number to zero.
-
-Drafts will include a PreRelease field as a part of their SemanticVersion. The MajorVersion, MinorVersion, and Patch number assigned to a draft will reflect the rules above. For revisions, these numbers are necessarily expected to change after the first draft of the revision. In other words, the first draft of a revision will increment one of the three fields (and reset others as appropriate) but subsequent drafts will retain these new values unless the extent of changes forces a change (e.g., the first draft may have been limited to a patch whereas the second draft resulted in a minor version). The primary sequencing value for drafts is provided by the PreRelease field, which is defined as follows:
-
-- Initial drafts of documents will use a PreReleaseStage of "alpha"
-- Drafts that are being submitted for WG review or have been approved by the WG as a pUCD will use a PreReleaseStage of "beta"
-- User comment drafts will use a PreReleaseStage of "cd"
-- Drafts that reflect comment resolutions post-UCD will use a PreReleaseStage of "cr"
-- Drafts that have been approved by the WG as a pRS will use a PreReleaseStage of "pRS"
-
-Documents targeting IFR approval will not use the "cd", "cr", or "pRS" PreReleaseStage codes.
-
-The PreReleaseNumber shall start at 0 for the initial draft of a new effort (new or revision) and will increment by 1 until the document is approved.
-
-!!! note
-    Per semantic versioning rules, each integer field contained in the string is presented without leading zeros but can contain multiple digits. Thus, v2.10.0 is semantically after v2.9.0.
-
-!!! example
-    NTCIP 8001 v0.5.3-cd.27
-
-Errata are only applicable to documents using the traditional standards development process.
+- Indicate that it is a part of the NTCIP family of standards
+- Provide a unique number that can be used to refer to the document content (regardless of approval stage or version number)
+- Provide a version number that indicates the semantic versioning of the document
+- Indicate the approval stage of the document, if not a full standard
+- Provide a title that describes the document content
 
 ## Code of Ethics and Conduct {.body}
 

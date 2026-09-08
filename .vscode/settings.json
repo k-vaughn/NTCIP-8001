@@ -5,6 +5,7 @@
         "Booch",
         "CCITT",
         "centiseconds",
+        "checkmark",
         "CMIP",
         "CVRIA",
         "DARPA",
@@ -62,6 +63,7 @@
         "valuereference",
         "VCOID",
         "weasyprint",
+        "xmark",
         "Zensical"
     ],
     "cSpell.language": "en-US"

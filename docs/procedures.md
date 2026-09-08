@@ -115,9 +115,15 @@ The procedures for membership and leadership and of the NTCIP JC are established
 |**History:**               |None                                    |
 |**Related Procedures**     |None                                    |
 
-#### Procedure Statement {.body}
-
 Much of the work of the NTCIP JC occurs in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP JC are described below.
+
+##### Announcement of Meetings {.body}
+
+The NTCIP Coordinator will announce every meeting of the NTCIP JC and of each of its groups in coordination with the respective Chair. The announcement shall include the date, time, location, and agenda. 
+
+Virtual meetings are to be announced at least ==two weeks== in advance of the meeting. In-person meetings are to be announced at least ==six weeks== in advance of the meeting.
+
+Announcements are to announced using the designated communications channels established for the NTCIP JC and of each of its groups.
 
 ##### Parliamentary Authority {.body}
 
