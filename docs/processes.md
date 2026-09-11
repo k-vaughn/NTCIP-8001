@@ -67,6 +67,9 @@ The NTCIP Coordinator is appointed through mutual agreement among the SDOs.
 
 #### Responsibilities {.body}
 
+!!! question
+    Added 5-7. Is this appropriate?
+
 The NTCIP Coordinator is responsible for:
 
 1. Managing projects
@@ -106,6 +109,11 @@ The NTCIP Coordinator can be replaced at any time through mutual agreement among
 
 The Joint Committee on the NTCIP (NTCIP JC) is established by the Memorandum of Understanding among the SDOs.
 
+!!! question
+    Changed above from "Assignment" (used for people) to "Establishment" (used for groups). Is this appropriate?
+
+    Added "Membership" section below. Is this appropriate?
+
 #### Membership {.body}
 
 The NTCIP JC is composed of the following voting membership interest categories:
@@ -129,6 +137,9 @@ The JC is responsible for:
 
 #### Quorum {.body}
 
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
+
 A quorum is required for any formal action by the NTCIP JC. Quorum is established by a 2/3rds majority of the current voting membership with at least two (2) members from each of the three (3) membership categories (AASHTO, ITE, and NEMA). ==Alternates count towards quorum.==
 
 !!! note
@@ -136,11 +147,17 @@ A quorum is required for any formal action by the NTCIP JC. Quorum is establishe
 
 #### Voting {.body}
 
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
+
 In general, the NTCIP JC operates on a consensus basis (i.e., reasonable attempts are made to resolve all sustained objections). However, when needed to resolve conflicts and when required by adopted procedures, the NTCIP JC will undertake formal votes. Unless otherwise stated in detailed processes, decisions by the JC are made by simple majority of those voting (i.e., more than half of the votes cast) when a quorum is available. 
 
 Voting by correspondence (i.e., a stated vote on a specific question provided in writing in advance of a meeting) or through the voting member's designated [alternate](#alternates) is allowed, but proxies (i.e., a voting member allowing another voting member to cast their vote or a general position on an issue) is not allowed. Neither absences nor abstentions are considered in voting results, unless otherwise stated in detailed processes.
 
 Electronic ballots (i.e., all members vote on a specific question via electronic means) are allowed by the NTCIP JC as long as the number of responses received represents a quorum. Mixed ballots (i.e., some members vote electronically and some members vote in person) are not allowed.
+
+!!! question
+    Removed section on termination as it belongs in the voting member section. Is this appropriate?
 
 ### Groups {.body}
 
@@ -158,7 +175,7 @@ Electronic ballots (i.e., all members vote on a specific question via electronic
 #### Types of Groups {.body}
 
 !!! question
-    The current NTCIP structure does not seem to allow for groups other than WGs. The recent task force demonstrated the need for such a group. The following is based on the ISO structure. Is it appropriate?
+    We punted this discussion at the July 2026 meeting. This text adds the definition of (long-standing) advisory groups and (short-lived) ad-hoc groups so that these additional groups can be formally defined under defined terms while preventing any challenges about their legitimacy. Is it appropriate?
 
 Within the NTCIP effort, most work is performed within groups. The NTCIP JC can establish three types of groups:
 
@@ -171,6 +188,9 @@ Within the NTCIP effort, most work is performed within groups. The NTCIP JC can 
 
 #### Establishment of groups {.body}
 
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
+
 Groups are established by a simple majority vote of the NTCIP JC. The NTCIP Coordinator is responsible for publicizing the action to promote membership within the group whenever:
 
 - The group is established, 
@@ -178,6 +198,9 @@ Groups are established by a simple majority vote of the NTCIP JC. The NTCIP Coor
 - The group is reactivated after being dormant for a period of time.
 
 #### Working Group Membership {.body}
+
+!!! question
+    Added to reflect August discussion. Is this appropriate?
 
 Each working group is composed of the following voting membership categories:
 
@@ -191,6 +214,9 @@ NTCIP group meetings shall be open meetings that can be attended by any interest
 
 #### Membership in Advisory and Ad-hoc Groups {.body}
 
+!!! question
+    Added to reflect August discussion. Is this appropriate?
+
 Each advisory and ad-hoc group shall be composed of voting positions as determined by the NTCIP JC.
 
 !!! note
@@ -203,7 +229,7 @@ Each group is responsible for its scope as defined by the NTCIP JC. When there i
 #### Quorum {.body}
 
 !!! question
-    For review
+    Updated to reflect August discussion. Is this appropriate?
 
 A quorum is required for any formal action by a group. To establish a quorum, a group will have:
 
@@ -219,6 +245,9 @@ A quorum is required for any formal action by a group. To establish a quorum, a 
 #### Voting {.body}
 
 Each group generally operates by consensus. Specifically, issues about the text of a draft standard are discussed, as necessary. If there are no sustained objections to the revised text, the discussion can move to the next topic without any formal vote. This promotes speedy development; nonetheless, a member can use Robert's Rules to ask for a vote on the issue to document the level of consensus, if they wish. While most discussions are by consensus, key decisions defined in the development process require formal votes to unambiguously document the level of consensus achieved prior to moving the document to the next stage.
+
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
 
 Within groups, votes are by simple majority, unless otherwise specified in detailed processes.
 
@@ -244,11 +273,17 @@ At any time, the NTCIP JC can suspend or terminate a group by a simple majority 
 !!! question "Discussion"
     From the MOU (although we have never operated like this): The committee shall designate a chair and vice-chair which shall be from different organizations. The chair shall have a term limit of 3 consecutive years.  After the 3-year term the vice-chair shall become chair, and a new vice chair shall be designated from the remaining organization that didn’t have a leadership role during the previous term.
 
+!!! question
+    Fore review
+
 The JC Chair ==shall be a voting member of the NTCIP JC== and is appointed by the SDOs.  It is the responsibility of the SDOs to coordinate among each other in this selection.
 
 ==???==
 
 #### Responsibilities {.body}
+
+!!! question
+    Added resposibilities of voting members to the JC chair. Is this appropriate?
 
 In addition to the responsibilities of a voting member of the NTCIP JC, the JC chair is responsible for:
 
@@ -294,12 +329,18 @@ Voting members of the JC are appointed by the SDOs with six members appointed by
 
 #### Participation {.body}
 
+!!! question
+    Added to reflect August discussion. Is this appropriate?
+
 NTCIP JC members are responsible for participating in meetings. SDOs are responsible for ensuring that their appointed NTCIP JC members participate in meetings and removing them otherwise. It is recommended that SDOs warn NTCIP JC members that their membership status is in jeopardy if they miss two consecutive meetings and to remove them if they miss three consecutive meetings.
 
 !!! note
     NTCIP JC members are appointed by the SDOs. It is the responsibility of the SDOs to ensure that their appointed NTCIP JC members participate in meetings and remove them otherwise. Failure of an SDO to ensure member participation results in a defacto dilution of the SDO vote.
 
 #### Responsibilities {.body}
+
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
 
 In addition to participating in meetings, NTCIP JC members are responsible for:
 
@@ -310,6 +351,9 @@ In addition to participating in meetings, NTCIP JC members are responsible for:
 - Informing the NTCIP Coordinator of any changes to their contact or employment information.
 
 #### Alternates {.body}
+
+!!! question
+    Added to reflect August discussion. Is this appropriate? (Suggests that alternates must be appointed in advance)
 
 A voting member of the NTCIP JC may designate an alternate member from the ==voting member's employer organization== to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member shall count towards quorum and voting results. However, the voting member is not allowed to assign an alternate member for two consecutive meetings.
 
@@ -345,6 +389,9 @@ A voting member of the NTCIP JC may designate an alternate member from the ==vot
 
 #### Termination {.body}
 
+!!! question
+    Is this needed? i.e., if SDOs appoint, maybe the JC does not terminate, ths SDOs do? Perhaps we just say that and also allow resignations?
+
 A member of the NTCIP JC can resign at any time. The voting membership of the NTCIP JC can revoke the voting membership of any member by a 2/3rds vote of all current voting members. Upon resignation or termination of any voting member, the associated SDO should take immediate steps to find a replacement voting member.
 
 !!! question
@@ -375,6 +422,9 @@ A member of the NTCIP JC can resign or be removed by the nominating SDO at any t
 
 #### Member Assignment {.body}
 
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
+
 !!! question "For JC Discussion"
     Voting membership on the WGs has become an issue. They are incompatible with the proposed IFR approval process because ANSI requires safety-related standards to have no more than 1/3 of the vote reserved for any interest category. We currently only divide between public and private sector - at best achieving 50% balance. In addition, concerns have been raised about the opaque nature in which members are appointed and there have been significant problems in achieving quorum at times, which delays the work. The following represents the consensus of the WG but needs review by the JC.
 
@@ -398,6 +448,9 @@ Any entity can participate at any meeting as an observer. Liaisons from other or
 
 #### Participation {.body}
 
+!!! question
+    Added to reflect August discussion. Is this appropriate?
+
 Voting members of a group are responsible for participating in the group's meetings. Their membership shall automatically lapse to observer status if they miss three out of four consecutive meetings. 
 
 !!! note
@@ -411,6 +464,9 @@ Voting members of a group are responsible for participating in the group's meeti
 
 #### Responsibilities {.body}
 
+!!! question
+    Updated to reflect August discussion. Is this appropriate?
+
 In addition to participating in meetings, NTCIP JC members are responsible for:
 
 - Participating in discussions within the group, 
@@ -420,6 +476,9 @@ In addition to participating in meetings, NTCIP JC members are responsible for:
 - Informing the NTCIP Coordinator of any changes to their contact or employment information.
 
 #### Group Alternates {.body}
+
+!!! question
+    Added to reflect August discussion. Is this appropriate?
 
 A voting member of an NTCIP group may designate an alternate member from the ==voting member's employer== to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member shall count towards quorum and voting results. ~~However, the voting member is not allowed to assign an alternate member for two consecutive meetings.~~ ==However, the voting member's attendance does not count towards the voting member's attendance.==
 
