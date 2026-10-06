@@ -79,14 +79,16 @@ The NTCIP Coordinator is responsible for:
     - Managing comments and responses
 2. Announcing meetings with agendas
 3. Ensuring that documents are processed in a timely manner once submitted to the SDOs for UCD, ballot, or publication
-4. Maintain membership roles for each NTCIP group ensuring that members are fulfilling the requirements of membership
-5. Maintaining a list of observing members who would like to be considered for voting membership
-6. Notifying SDOs when voting members miss two consecutive meetings so that warnings can be issued
-7. Notifying SDOs when voting members are transitioned to observer status due to inactivity
-8. Setting up meetings
-9. Assisting JC chair as needed
-10. Maintaining all necessary records for projects
-11. Maintaining a written record of all decisions made at JC and WG meetings
+4. Maintain online membership attendance records for the JC and each NTCIP working group, visible to each group's respective membership so that each group can track attendance and participation by its members
+5. Maintaining a list of observing members who would like to be considered for voting membership for the NTCIP JC and each NTCIP working group
+6. Notifying relevant SDO when a JC voting member misses two consecutive meetings so that a warning can be issued to the voting member (with CC to JC chair)
+7. Notifying relevant SDO when a JC voting member misses three consecutive meetings so that the member can be replaced
+8. Issue a warning to any group voting member (with CC to group chairs) when voting member misses two consecutive meetings
+9. Notifying group member and group chairs when a voting member is to be transitioned to observer status due to inactivity
+10. Setting up meetings
+11. Assisting JC chair as needed
+12. Maintaining all necessary records for projects
+13. Maintaining a written record of all decisions made at JC and WG meetings
 
 #### Termination {.body}
 
@@ -202,13 +204,15 @@ Groups are established by a simple majority vote of the NTCIP JC. The NTCIP Coor
 !!! question
     Added to reflect August discussion. Is this appropriate?
 
-Each working group is composed of the following voting membership categories:
+Each working group is composed of the following voting membership interest categories:
 
-- NEMA (producer)
-- AASHTO (user)
-- ITE (general interest)
+- Users (public sector / user community)
+- Producers (private product developers for the standard, including either side of an interface as discussed)
+- General Interest (neither of the above for that working group; this generally includes consultants and academics)
 
-Each SDO shall be assigned the same number of voting positions within the working group; the number of voting positions within the working group shall be determined by the NTCIP JC.
+Each interest category shall be assigned the same number of voting positions within the working group; the number of voting positions within the working group shall be determined by the NTCIP JC. 
+
+When expressing interest in a working group, the participant shall assert their interest category. Any member of a working group may appeal the validity of an interest category assertion of another member; in this case, the appeal shall be considered by the working group co-chairs, the NTCIP JC chair, the NTCIP Coordinator, and the SDOs to make a final determination of the participant's interest category.
 
 NTCIP group meetings shall be open meetings that can be attended by any interested party. These parties are encouraged to register with the NTCIP Coordinator as observers or liaisons to participate in discussions and receive meeting announcements.
 
@@ -355,7 +359,10 @@ In addition to participating in meetings, NTCIP JC members are responsible for:
 !!! question
     Added to reflect August discussion. Is this appropriate? (Suggests that alternates must be appointed in advance)
 
-A voting member of the NTCIP JC may designate an alternate member from the ==voting member's employer organization== to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member shall count towards quorum and voting results. However, the voting member is not allowed to assign an alternate member for two consecutive meetings.
+A voting member of the NTCIP JC may designate an alternate member to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member shall shall not be employed from an organization already represented by another voting member or alternate in attendance and shall meet any additional requirements imposed by the respective SDO (e.g., must represent a state agency). 
+
+!!! note
+    While the SDOs are allowed to establish their own alternate member policies, the goal is for SDOs to appoint voting members who will personally attend most meetings of the NTCIP JC. The alternate member policy is to allow for exceptional cases and reliance on alternate members at consecutive meetings is discouraged.
 
 !!! example
     
@@ -433,7 +440,7 @@ The voting positions within a group are established by the NTCIP JC.
 Membership within each group is assigned to an individual. The initial assignment of voting members to fill these positions shall be performed jointly by the NTCIP JC chair and the group's co-chairs. Subsequent assignments shall be performed by the group's co-chairs. In all cases, the assignments shall:
 
 - Ensure the members fulfill the requirements for the position, including that the proposed member:
-    - Represents the interest category associated with the voting position (e.g., only public-sector employees can be assigned to an AASHTO position)
+    - Represents the interest category associated with the voting position (e.g., only users can be assigned to a user position)
     - Does not represent the same organization as another voting member
     - Does not have a conflict of interest
 - Prefer members who:
@@ -467,12 +474,13 @@ Voting members of a group are responsible for participating in the group's meeti
 !!! question
     Updated to reflect August discussion. Is this appropriate?
 
-In addition to participating in meetings, NTCIP JC members are responsible for:
+In addition to participating in meetings, NTCIP group members are responsible for:
 
 - Participating in discussions within the group, 
 - Reviewing documents, 
 - Providing comments, 
-- Casting votes, and 
+- Casting votes,
+- Appointing their alternate, and 
 - Informing the NTCIP Coordinator of any changes to their contact or employment information.
 
 #### Group Alternates {.body}
@@ -480,28 +488,37 @@ In addition to participating in meetings, NTCIP JC members are responsible for:
 !!! question
     Added to reflect August discussion. Is this appropriate?
 
-A voting member of an NTCIP group may designate an alternate member from the ==voting member's employer== to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member shall count towards quorum and voting results. ~~However, the voting member is not allowed to assign an alternate member for two consecutive meetings.~~ ==However, the voting member's attendance does not count towards the voting member's attendance.==
+A voting member of an NTCIP group may designate an alternate member to represent and vote for the voting member if the assigned voting member is unavailable for a meeting. The alternate member:
+
+1. Shall represent the same interest category as the voting member
+2. Shall not be employed or represent the same organization as another voting or active alternate member (an alternate member may be employed or represent the same organization as the voting member that is being replaced)
+3. Shall not have a conflict of interest
+4. Shall count towards quorum and voting results
+
+Alternate members that are not employed by the same organization as the voting member shall be designated in advance of the meeting; self-declared alternates at the meeting are only allowed when employed by the same organization as the voting member. 
+
+Attendance by an alternate member does not count towards the voting member's attendance and ==a voting member is not allowed to rely upon an alternate member at two consecutive meetings==.
 
 !!! example
     
     :octicons-check-circle-fill-16:{.checkmark} Meeting 1: Voting member is present. <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 2: Voting member assigns alternate. <br/>
-    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: Voting member assigns alternate. (attendance warning should be issued, but no removal) <br/>
+    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: ==Voting member assigns alternate.== (attendance warning should be issued, but no removal) <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 4: Voting member assigns alternate. <br/>
     :octicons-no-entry-16:{.xmark} ==Voting member automatically removed at the end of Meeting 4==<br/>
      
     :octicons-check-circle-fill-16:{.checkmark} Meeting 1: Voting member is present. <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 2: Voting member assigns alternate. <br/>
-    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: Voting member assigns alternate. (attendance warning should be issued, but no removal)<br/>
+    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: ==Voting member assigns alternate.== (attendance warning should be issued, but no removal)<br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 4: Voting member assigns alternate. <b>Voting member then shows up late.</b> (Counts as attending meeting) <br/>
     :octicons-check-circle-fill-16:{.checkmark} Voting member stays active. <br/>
 
     :octicons-check-circle-fill-16:{.checkmark} Meeting 1: Voting member is present. <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 2: Voting member assigns alternate. <br/>
-    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: Voting member assigns alternate. (attendance warning should be issued, but no removal) <br/>
+    :octicons-check-circle-fill-16:{.checkmark} Meeting 3: ==Voting member assigns alternate.== (attendance warning should be issued, but no removal) <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 4: Voting member is present. <br/>
     :octicons-check-circle-fill-16:{.checkmark} Meeting 5: Voting member assigns alternate. <br/>
-    :octicons-no-entry-16:{.xmark} ==Voting member automatically removed at the end of Meeting 4==<br/>
+    :octicons-no-entry-16:{.xmark} ==Voting member automatically removed at the end of Meeting 5==<br/>
    
 #### Terminating Group Membership {.body}
 
