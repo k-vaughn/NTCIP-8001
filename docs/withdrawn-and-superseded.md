@@ -15,7 +15,7 @@
 |**Superseded By:**         |Openness, Lack of Dominance, Balance, Consideration of Views and Objections, Evidence of Consensus|
 |**Withdrawn On:**          |September 30, 2026                      |
 |**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
+|**History:**               |This has been greatly expanded in [Policies](policies.md)  |
 |**Related Policies:**      |None                                    |
 
 ### Policy Statement {.annex}
@@ -45,56 +45,56 @@ Central to the NTCIP consensus organization are the Working Groups which functio
 | **Supersedes**         | N/A                                    |
 | **Last Reviewed/Updated** | September 30, 2017                  |
 | **Applies To**         | NTCIP Joint Committee and Working Groups |
-| **History**            | None                                   |
-| **Related Policies**   | None                                   |
+| **History**            | This has been moved to NTCIP 8002      |
+| **Related Policies**   | NTCIP 8002                             |
 
 ### Policy Statement {.annex}
 
-~~There are a variety of document types covered by the NTCIP efforts, including:~~
+There are a variety of document types covered by the NTCIP efforts, including:
 
-1.  ~~Standards;~~
-2.  ~~Errata;~~
-3.  ~~Process, Control, and Information Management Policies; and~~
-4.  ~~Informational Reports.~~
+1.  Standards;
+2.  Errata;
+3.  Process, Control, and Information Management Policies; and
+4.  Informational Reports.
 
 ### Standards {.annex}
 
-~~The primary activity of the NTCIP project effort is to develop standards. NTCIP Standards include those documents that define specific requirements related to protocols, data definitions, message set definitions, etc. and that are developed and maintained in a committee environment. Standards are divided into Base Standards and Profiles.~~
+The primary activity of the NTCIP project effort is to develop standards. NTCIP Standards include those documents that define specific requirements related to protocols, data definitions, message set definitions, etc. and that are developed and maintained in a committee environment. Standards are divided into Base Standards and Profiles.
 
-~~The scheme for document numbering and the procedures for configuration management are defined in NTCIP 8002.~~
+The scheme for document numbering and the procedures for configuration management are defined in NTCIP 8002.
 
 #### Base Standards {.annex}
 
-~~Base standards are those standards that define the details of each specific feature. The features themselves may be optional or mandatory. There are three major categories of base standards as defined below.~~
+Base standards are those standards that define the details of each specific feature. The features themselves may be optional or mandatory. There are three major categories of base standards as defined below.
 
 ##### Protocols {.annex}
 
-~~Protocols define the basic requirements of the various NTCIP protocols and procedures.~~
+Protocols define the basic requirements of the various NTCIP protocols and procedures.
 
 ##### Data Dictionaries {.annex}
 
-~~Data Dictionaries, sometimes called _Object Definitions_, define the exact meaning of specific data elements.~~
+Data Dictionaries, sometimes called _Object Definitions_, define the exact meaning of specific data elements.
 
 ##### Message Sets {.annex}
 
-~~Message sets define the exact structure and meaning of specific messages or groups of data elements.~~
+Message sets define the exact structure and meaning of specific messages or groups of data elements.
 
 #### Profiles {.annex}
 
-~~Profiles are standards that reference one or more other standards to define the details of implementation. In general, profiles are used to define how to combine a set of base standards to achieve a specific set of functionality. The profiles will often require the implementation of certain optional features of base standards to ensure interoperability of the desired features. Profiles are useful as they provide an unambiguous definition of how to implement base standards.~~
+Profiles are standards that reference one or more other standards to define the details of implementation. In general, profiles are used to define how to combine a set of base standards to achieve a specific set of functionality. The profiles will often require the implementation of certain optional features of base standards to ensure interoperability of the desired features. Profiles are useful as they provide an unambiguous definition of how to implement base standards.
 
-~~See NTCIP 8002 for the definitions of the types, or levels, of profiles, such as Information Profiles, Application Profiles, Transport Profiles, and Subnet Profiles.~~
+See NTCIP 8002 for the definitions of the types, or levels, of profiles, such as Information Profiles, Application Profiles, Transport Profiles, and Subnet Profiles.
 
 ### Errata Document {.annex}
 
-~~An errata document may be developed and published to correct technical issues, clarify ambiguities, or correct editorial mistakes in a published standard. It is not intended to add new features or change the intent of the features in the published standard. An errata document developed for a standard is not required to go through a user comment period or through an SDO ballot or approval. However, the NTCIP JC may require a user comment period if the corrective measures in the errata are extensive or complicated.~~
+An errata document may be developed and published to correct technical issues, clarify ambiguities, or correct editorial mistakes in a published standard. It is not intended to add new features or change the intent of the features in the published standard. An errata document developed for a standard is not required to go through a user comment period or through an SDO ballot or approval. However, the NTCIP JC may require a user comment period if the corrective measures in the errata are extensive or complicated.
 
 ### Process, Control, and Information Management Policies {.annex}
 
-~~Another series of NTCIP publications are those documents defining how the NTCIP committees conduct business and produce reports, such as this document. These documents are categorized as Process, Control, and Information Management Policies.~~
+Another series of NTCIP publications are those documents defining how the NTCIP committees conduct business and produce reports, such as this document. These documents are categorized as Process, Control, and Information Management Policies.
 
 ### Informational Reports {.annex}
 
-~~In several cases, the NTCIP effort has identified a need to provide informative documents to better explain certain aspects of the NTCIP. These documents can cover a wide variety of topics from detailed explanations of how to use certain features of the protocol to reports identifying where the NTCIP has been used. The documents can either be produced by the NTCIP effort itself, or may be submitted by any interested party for consideration by the NTCIP effort.~~
+In several cases, the NTCIP effort has identified a need to provide informative documents to better explain certain aspects of the NTCIP. These documents can cover a wide variety of topics from detailed explanations of how to use certain features of the protocol to reports identifying where the NTCIP has been used. The documents can either be produced by the NTCIP effort itself, or may be submitted by any interested party for consideration by the NTCIP effort.
 
-~~Documents that have undergone a rigorous review and consensus building process may be formally recognized by the NTCIP process and assigned an NTCIP number for configuration management purposes. The Joint Committee may also decide to post other informational materials on the NTCIP Web Site if it deems appropriate.~~
+Documents that have undergone a rigorous review and consensus building process may be formally recognized by the NTCIP process and assigned an NTCIP number for configuration management purposes. The Joint Committee may also decide to post other informational materials on the NTCIP Web Site if it deems appropriate.

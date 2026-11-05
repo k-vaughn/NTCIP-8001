@@ -21,8 +21,8 @@ The policies defined in this section are largely based on the ANSI Essential Req
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 Participation in the NTCIP standards process is open to anyone materially interested in its work. There are no fees for participation nor are there any requirements for membership in any organization.
 
@@ -35,8 +35,8 @@ Membership lists for each active WG are maintained and available upon request, a
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 The NTCIP effort ensures a lack of dominance by any single interest category, individual, or organization by ensuring that all key decisions are made by consensus vote with a balanced voting membership and a defined appeals process.
 
@@ -45,8 +45,8 @@ The NTCIP effort ensures a lack of dominance by any single interest category, in
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 The NTCIP structure attempts to respect the ANSI requirements for balance, which requires that no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. ANSI indicates that the following categories should be "considered":
 
@@ -54,11 +54,13 @@ The NTCIP structure attempts to respect the ANSI requirements for balance, which
 - user, and
 - general interest
 
-Within the NTCIP, balance is achieved by refining these three categories as follows:
+Within the NTCIP JC, balance is achieved by refining these three categories as follows:
 
 - NEMA (generally reflecting producers),
 - AASHTO (generally reflecting users), and
 - ITE (generally reflecting general interest).
+
+NTCIP groups under the NTCIP JC use the three ANSI interest categories directly.
 
 !!! question "For JC Discussion"
     Some have complained about how the current voting memberships are granted while public/private membership split does not satisfy the ANSI requirements.  In addition, reaching quorum has also been a challenge at times. This text represents the current position of the WG on how to overcome these problems.
@@ -86,8 +88,8 @@ The NTCIP effort will coordinate with other SDOs, as deemed appropriate, to ensu
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 The NTCIP effort will announce its major actions in major industry publications and websites, such as the _ITE Journal_ and the [ITE Website](https://www.ite.org). Major actions include:
 
@@ -100,8 +102,8 @@ The NTCIP effort will announce its major actions in major industry publications 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 Written comments and objections submitted on any NTCIP document or proposed effort will be recorded by a defined process (e.g., directly by NTCIP staff, through online management through GitHub Issues), which will identify a target time (e.g., one week) for the comment to be triaged and an acknowledgement sent. The acknowledgement may include a response (i.e., in the case of a simple issue) but will more often need to describe the process that will be used to address the comment (e.g., identify the WG that will be notified, whether that WG has a planned meeting, etc.). Once the review process is complete, the commenter will be notified of the resolution.
 
@@ -112,8 +114,8 @@ Unresolved objections, along with the proposed response, will be reported to the
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**Supersedes:**            |NTCIP Consensus-Based Organization      |
 
 Consensus is demonstrated for NTCIP documents based on the type of vote, as defined in the procedures.
 
@@ -230,13 +232,13 @@ A request for clarification can be submitted to the [NTCIP Coordinator](mailto:s
 
 The NTCIP Effort recognizes the following types of documents:
 
-- Technical specifications: Documents that contain requirements (i.e., "shall" statements) that relate to products within the ITS industry.
-- Process, control, and management documents: Documents that define rules for the NTCIP effort, such as this document. Other such documents include documents that define details about the formats of NTCIP documents, rules for NTCIP MIBs, rules for using GitHub, etc. (i.e., 8000 series)
-- Informational Reports: Documents that provide useful information for the industry but do not provide any requirements (i.e, 9000 series)
-- Registries: Documents that require frequent updates to reflect requests (e.g., the registry of manufacturer IDs).
+- **Technical specifications**: Documents that contain requirements (i.e., "shall" statements) that relate to products within the ITS industry.
+- **Process, control, and management documents**: Documents that define rules for the NTCIP effort, such as this document. Other such documents include documents that define details about the formats of NTCIP documents, rules for NTCIP MIBs, rules for using GitHub, etc. (i.e., 8000 series)
+- **Informational Reports**: Documents that provide useful information for the industry but do not provide any requirements (i.e, 9000 series)
+- **Registries**: Documents or websites that require frequent updates to reflect requests (e.g., the registry of manufacturer IDs).
 
 !!! note
-    The NTCIP effort historically supported amendment documents. These were used to correct technical errors, ambiguities, and/or editorial mistakes contained in published documents in a timely fashion. Early versions of these documents were published as short stand-alone paper documents. As the world migrated to electronic formats, the amendments were published as new minor editions of the major version of the standard. The migration to semantic version numbers rather than the prior versioning scheme negates the need to maintain the concept of an amendment. Instead, if a correction is needed to any document, the necessary edits should be made to the original document (i.e., either the Word document or website) along with an appropriately updated semantic version number and an explanation of the change (within the Annexes. The new version can be quickly approved using the IFR approval process, and if desired, the IFR approval can be followed by traditional standards approval process to demonstrate greater acceptance.
+    The NTCIP effort historically supported amendment documents. These were used to correct technical errors, ambiguities, and/or editorial mistakes contained in published documents in a timely fashion. Early versions of these documents were published as short stand-alone paper documents. As the world migrated to electronic formats, the amendments were published as new minor editions of the major version of the standard. The migration to semantic version numbers rather than the prior versioning scheme negates the need to maintain the concept of an amendment. Instead, if a correction is needed to any document, the necessary edits should be made to the original document (i.e., either the Word document or website) along with an appropriately updated semantic version number and an explanation of the change (within the Annexes). The new version can be quickly approved using the IFR approval process, and if desired, the IFR approval can be followed by traditional standards approval process to demonstrate greater acceptance.
 
 ### Standardization Levels {.body}
 
@@ -248,12 +250,9 @@ The NTCIP Effort recognizes the following types of documents:
 
 The NTCIP effort recognizes three levels of standardization for its documents (other than registries), as discussed below. Not all documents are expected to become standards.
 
-!!! question
-    Do we still want to use the term "Recommended Standard"? Some have pointed out that the term is confusing as it could imply the document is already a standard **and** is recommended, whereas the intent is that it is recommended for standardization. Maybe something like "Joint Recommendation" would be better?
-
-- (Full) Standard: A document that has been balloted and approved by all three SDOs through the traditional industry-wide balloting process. Standards are intended to show broad industry support for documents that 1) are considered very stable and will not need a major update for several years and/or 2) represent a significant body of work that should be recognized as a solid baseline while work continues in the development of new features.
-- Recommended Standard: A document that has received the support of the Joint Committee on the NTCIP. Recommended Standards are primarily intended for 1) an interim stage on the way to full standardization, and 2) the final stage for process, control, and management documents as these are intended to be documents for internal NTCIP management and generally do not benefit from broader industry ballots because all of the stakeholders are internal to the NTCIP.
-- Interim Document for Field Release (IFR): A document that represents current thinking of the NTCIP organization and met the defined criteria for being ready for implementation and field use. The Interim Document for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a document. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
+- **(Full) Standard**: A document that has been balloted and approved by all three SDOs through the traditional industry-wide balloting process. Standards are intended to show broad industry support for documents that 1) are considered very stable and will not need a major update for several years and/or 2) represent a significant body of work that should be recognized as a solid baseline while work continues in the development of new features.
+- **Recommended Standard**: A document that has received the support of the Joint Committee on the NTCIP to be sent to industry ballot. Recommended Standards are primarily intended for 1) an interim stage on the way to full standardization, and 2) the final stage for process, control, and management documents as these are intended to be documents for internal NTCIP management and generally do not benefit from broader industry ballots because all of the stakeholders are internal to the NTCIP.
+- **Interim Document for Field Release (IFR)**: A document that represents current thinking of the NTCIP organization and met the defined criteria for being ready for implementation and field use. The Interim Document for Field Release stage exists to provide a streamlined standardization process. While it reflects a lower level of consensus, it allows for faster adoption of a document. When combined with the online development process (as defined in NTCIP 8008), it can create a much more agile development approach for standardization that promotes fast incremental development. Faster development results in increased risks due to shorter review cycles, but in an environment with rapidly changing technology, a faster process may be deemed appropriate for some efforts.
 
 ### Designators for Documents {.body}
 
@@ -261,6 +260,7 @@ The NTCIP effort recognizes three levels of standardization for its documents (o
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
+|**History:**               |Changed to semantic versioning in 2026  |
 
 All NTCIP documents will follow a common formulaic naming convention that will 
 

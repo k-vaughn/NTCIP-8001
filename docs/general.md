@@ -49,7 +49,6 @@ This document provides the framework for the development and management of the s
 The remainder of this document is broken into the following chapters:
 
 - **General** – Contains information applicable to the entire document;
-- **Management** – Describes how policies, processes and procedures are developed and maintained;
 - **Policies** – Contains the policies of the NTCIP project;
 - **Processes** – Contains the processes of the NTCIP project;
 - **Procedures** – Contains the procedures related to the NTCIP project; and
@@ -108,7 +107,11 @@ For the purposes of this document, the following terms and definitions apply. Te
 | NTCIP JC Chair | The individual who leads the NTCIP Joint Committee. |
 | NTCIP SDO | One of AASHTO, ITE and NEMA. |
 | Protocol | A specific set of rules, procedures and conventions defining the format and timing of data transmissions between devices that must be accepted and used to understand each other. |
+| Proxy Vote | A vote granted to someone other than the voting member or the voting member's designated alternate. Proxy votes are not allowed. |
 | SDO Staff | An employee of an SDO that is a non-voting member of the NTCIP JC. |
+| Simple Majority | More than half the votes cast, not counting abstentions, when a quorum is present. For example, if there are 15 voting members present at a meeting and the quorum requirement is met, then a vote of five yeas, four nays and six abstentions results in a motion passing. In the same meeting, a vote of five yeas, five nays, and five abstentions results in a motion failing because a majority was not achieved. |
+| Two-Thirds Majority | More than or equal to two-thirds of the votes cast, not counting abstentions, when a quorum is present. For example, if there are 15 voting members present at a meeting and the quorum requirement is met, then a vote of eight yeas, four nays and three abstentions results in a motion passing (8/12). In the same meeting, a vote of seven yeas, four nays, and four abstentions results in a motion failing because a two-thirds majority was not achieved (7/11). |
+| Unanimity | All voting members must be in favor of the motion. For example, if there are six voting members, all six must vote in favor for the motion to pass. |
 | User | An individual who directly or whose organization uses, specifies or creates NTCIP devices or systems. |
 | User Comment | A comment from a user, however, there is no real distinction in how comments or user comments are treated in the NTCIP project. |
 | Work Item | A deliverable assigned to a Working Group by the NTCIP Joint Committee. |

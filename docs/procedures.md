@@ -10,255 +10,223 @@
 
 This section contains the procedures that primarily address activities of the NTCIP JC.
 
-### Creating an NTCIP Working Group {.body}
+### Meeting procedures of the NTCIP JC {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Procedures**     | 5.2.1 NTCIP WG Organization            |
 
-### Procedure Statement {.body}
+Much of the work of the NTCIP JC occurs in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP JC are described below.
 
-There may be times when a work item to be undertaken by the NTCIP JC is not suitable for an existing NTCIP WG. In this case, the NTCIP JC may create a new WG ~~as follows~~ ^^by agreeing to and recording the following terms^^:
+#### Announcement of meetings {.body}
 
-1. The need ^^and scope^^ for the new group^^;^^~~ must be stated and recorded.~~
-2. The work items to be assigned to the group^^;^^~~ identified.~~
-3. The NTCIP JC voting member identified to act as a sponsor help support the WG in its activities;
+The NTCIP Coordinator must announce every meeting of the NTCIP JC in coordination with the NTCIP JC chair. The announcement must include the date, time, location, and agenda.
 
-^^The decision to establish a new group requires at least a 2/3rds majority of those voting.^^
+!!! question
+    For review
 
-^^Once established, the NTCIP JC Chair^^ ~~4. The NTCIP to~~ assign^^s at least one^^ ~~a~~ Chair ~~or Chairs~~ of the group with input from the NTCIP JC, the SDO representatives and the NTCIP Coordinator.
-~~5. The initial voting membership of the WG is proposed by the Chair or Chairs until it is suitable to the NTCIP JC.~~
-~~6. Confirmation of this is to be done via a motion and pass via a super majority of two-thirds (2/3s) or more affirmative votes from of the current voting members of the NTCIP JC. For example, if there are 17 voting members, then two-thirds is 11.33 which means there are 12 affirmative votes or more are required.~~
+Virtual meetings are to be announced at least two weeks in advance of the meeting. In-person meetings are to be announced at least six weeks in advance of the meeting.
 
-!!! question "Discussion"
-    The initial membership list does not seem to be needed if we accept the WG membership rules discussed previously.
+Announcements must be made using the designated communication channels established for the NTCIP JC.
 
-### ~~NTCIP JC~~ Proposals ^^for a New NTCIP Project^^{.body}
+#### Parliamentary authority {.body}
+
+The parliamentary authority of the NTCIP JC follows Robert's Rules of Order Newly Revised (RONR). RONR governs in all cases to which they are applicable and in which they are not inconsistent with this policies, processes and procedures document.
+
+!!! question
+    Do we want to soften this language? Robert's rules are rather strict and constraining, and in practice are not being followed that way in hardly any of the SDOs. Perhaps something like NTCIP groups are generally governed by consensus processes and rely on Robert's Rules of Order Newly Revised (RONR) when resolving conflicts and taking votes.
+
+### NTCIP JC voting procedures {.body}
+
+#### General {.body}
+
+Votes on matters before the JC may be taken either within a meeting or through an electronic ballot. Votes must not be mixed between the two methods.
+
+For votes conducted within a committee meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such correspondence votes must be received by the NTCIP JC chair or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
+
+For votes conducted within a committee meeting, a ballot cast may be from the voting member or the voting member's designated alternate, if the voting member is not present. [Proxy votes](general.md#terms) are not allowed.
+
+For votes conducted electronically, the number of responses received must represent a quorum.
+
+Unless otherwise specified, votes must be taken by [simple majority](general.md#terms).
+
+!!! note
+    The following actions vary from a simple majority.
+
+    - Approval of a Recommended Standard (RS)
+    - Approval of an Interim Document for Field Release (IFR)
+    - [Creation of a new NTCIP group](procedures.md#creating-an-ntcip-group)
+    - Removal of a NTCIP group chair or NTCIP group vice-chair
+
+!!! question
+    Are there any cases where we want to specify other measures, such as:
+
+    - absolute majority: i.e., >50% of the voting membership (we would need to clarify what happens with an empty seat)
+    - majority of those present: i.e., >50% of the voting members present at the meeting (which should probably be = to absolute majority with the exception of empty seats in the case of electronic ballots)
+
+!!! question
+    Review the following three ways to initiate a vote. Are they all valid?
+
+#### JC Chair initiated votes {.body}
+
+The chair of the NTCIP JC may initiate a vote on an issue according to the following procedure:
+
+1. The chair must identify the question to be asked and the ballot method to use (e.g., electronic or in-person). The information must be sent to the NTCIP Coordinator.
+2. The question will be announced to the voting membership either:
+    - as an agenda item for the next meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of 30 days of discussion and two-weeks of voting
+
+#### Group initiated votes {.body}
+
+A group may initiate a vote within the NTCIP JC as a part of a task to which it has been assigned according to the following procedure:
+
+1. A motion must be made by a voting member of the group to advance a report or document to its next stage through a vote by the NTCIP JC.
+2. The motion must be seconded.
+3. The motion must pass within the group by the required majority.
+4. The request for a vote within the NTCIP JC must be recorded and communicated to the NTCIP JC chair and NTCIP Coordinator.
+5. The NTCIP JC chair must identify the ballot method to use (e.g., electronic or in-meeting). The information must be sent to the NTCIP Coordinator.
+6. The question will be announced to the NTCIP JC voting membership either:
+    - as an agenda item for the next meeting at least two weeks in advance of the meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of 30 days of discussion and two-weeks of voting
+
+#### Member requested votes {.body}
+
+A voting member of the NTCIP JC may request to initiate a vote on any issue according to the following procedure:
+
+1. A motion must be made by a voting member of the NTCIP JC that states the question to be asked and the ballot method to use (e.g., electronic or in-person). The motion may be made at a meeting or via electronic means.
+2. The motion must be seconded.
+3. The motion must pass by simple majority.
+4. The question will be announced to the voting membership either:
+    - at a meeting and followed by a period of discussion and voting at the meeting
+    - as an agenda item for the next meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of two-weeks of voting
+
+!!! note
+    This process allows issues that arise at a meeting to be voted on immediately; however, it is greatly preferred to identify issues to be voted on in advance of a meeting and to announce them as an agenda item.
+
+### Specific actions of the NTCIP JC {.body}
+
+#### Creating an NTCIP group {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Procedures**     | 5.2.1 NTCIP WG Organization            |
 
-#### Procedure Statement {.body}
+There may be times when a work item to be undertaken by the NTCIP JC is not suitable for an existing NTCIP WG or that another NTCIP group is warranted. In this case, the NTCIP JC may create a new group by agreeing to and recording the following terms:
 
-All documents developed under the oversight of the NTCIP JC begin with a proposal (Registries excepted, see Policy 3.2 NTCIP Document Classifications). When a proposal is submitted to the Joint Committee, it will include the following details regarding the effort:
+1. The need and scope for the new group
+2. The work items to be assigned to the group
+3. The NTCIP JC voting member that will act as the group's sponsor and support its activities
+4. The number of members of each interest category to be assigned to the group
 
-1. the technical lead for the document to be developed;
-2. the working group, or other team, responsible for assisting the technical lead;
-3. the scope of the document to be developed;
-4. an explanation of why the document is needed;
-5. any related documents;
-6. any related working groups;
-7. the expected completion date; and
-8. an estimate of any required financial assistance.
+The decision to establish a new group requires at least a [two-thirds (2/3s) majority](general.md#terms).
+
+Once established, the NTCIP JC chair assigns a chair and vice-chair of the group with input from the NTCIP JC, the SDO representatives and the NTCIP Coordinator. The NTCIP JC chair will then work with the group's chair and vice-chair to establish the group's initial voting membership.
+
+#### JC assigns a work item to a WG {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2017                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+All documents developed under the oversight of the NTCIP JC begin with a proposal. Typically, a proposal comes from an existing NTCIP group but it may come from other sources such as a member of the NTCIP JC, an SDO, or the USDOT.
+
+When a proposal is submitted to the Joint Committee, it must include the following details regarding the effort:
+
+1. the sponsor of the proposal;
+2. the working group, or other team, responsible for assisting the sponsor;
+3. The [type of document](policies.md#types-of-documents) to be produced;
+4. the scope of the proposed document;
+5. an explanation of why the document is needed;
+6. any related documents;
+7. any related working groups;
+8. the expected completion date; and
+9. an estimate of any required financial assistance.
 
 A proposal may also contain sample text for the document. The sample text can be anything from a few words to an entire draft.
 
 Proposals are submitted to the NTCIP Joint Committee for approval; however, most proposals should be submitted through an appropriate working group in order to show a level of consensus for the proposal.
 
-### NTCIP JC Vacancies {.body}
+The decision to establish a new work item requires at least a [simple majority](general.md#terms).
+
+If the JC chooses to go forward with the proposal, the project is assigned to an appropriate WG. If no appropriate WG exists, a [new working group may be formed](procedures.md#creating-an-ntcip-group). Once the work item is assigned to a WG and any preconditions for the proposal are met, then the proposal is approved and work may begin.
+
+#### JC reviews document {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2026                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+When a document requires JC review, it is distributed to the NTCIP JC membership for review for a minimum of 30 days. Members should formulate comments and questions prior to the subsequent NTCIP JC meeting.
+
+When the document is distributed for review, it must identify its associated approved work item and the group that prepared the document.
+
+#### JC approves document for next stage {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2026                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+A meeting, web conference or teleconference is held where the WG Chair (and possibly a technical lead in the project) presents the document to the members of the NTCIP JC. The NTCIP JC asks the presentation team questions and makes comments based on their review. Any issue may be discussed regarding the document. The NTCIP JC may take a vote to advance the document to its next stage (e.g., UCD, RS, IFR). The question that is voted on may include direction to correct issues within the document prior to proceeding to the next stage. The amount of support required to pass a vote varies depending on the next stage of the work item, as follows:
+
+- User Comment Draft (UCD): [simple majority](general.md#terms)
+- Recommended Standard (RS): [two-thirds (2/3s) majority](general.md#terms)
+- Interim Document for Field Release (IFR): [two-thirds (2/3s) majority](general.md#terms)
+
+If the vote fails, the NTCIP JC will provide direction on how to proceed. This direction will typically indicate what revisions are required to make document acceptable to the NTCIP JC. The revisions may be to simply correct editorial items in the standard prior to a re-vote or there may be some more significant development to be done.
+
+#### NTCIP JC Vacancies {.body}
+
+!!! question
+    I am not sure where this text came from. Do we want to keep?
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-| **Applies To**            |NTCIP Joint Committee and Working Groups|
 | **History**               |This procedure on NTCIP JC Vacancies was established to provide the NTCIP JC the means to fill its own vacancies on the NTCIP JC if the SDOs are unable to do so. |
-| **Related Procedures** | None                                   |
-
-#### Procedure Statement {.body}
 
 The procedures for membership and leadership and of the NTCIP JC are established in the MOU Section 1.0 Establishment of a Joint Committee. The MOU states that there are “18 voting members with 1/3rd each being designated by AASHTO, ITE, and NEMA.” While this is the intent, it is often the case that that an SDO is not able to immediately fill a vacancy when one occurs. In order for the NTCIP JC to be effective, its voting membership must be maintained. The steps below help ensure the NTCIP JC membership.
 
-1. A vacancy on the NTCIP JC may identified by an SDO or the NTCIP Chair when they are informed by a voting member that they will no longer be participating in that capacity. A vacancy may also be identified by the NTCIP Chair that a voting member has not participated in three consecutive NTCIP JC meetings over a three month period or greater.
-2. The SDO which has the vacancy on the NTCIP JC is allowed up to one year to fill a vacancy.
+1. A vacancy on the NTCIP JC may be identified by an SDO or the NTCIP Chair when they are informed by a voting member that they will no longer be participating in that capacity. A potential vacancy may also be identified by the NTCIP Chair when a voting member has not participated in three consecutive NTCIP JC meetings.
+2. The SDO that has the vacancy on the NTCIP JC is allowed up to one year to fill a vacancy.
 3. If the SDO does not fill the vacancy in one year, the NTCIP JC Chair may nominate a representative pro tem to fill the vacancy. The representative pro tem must be a member (or representative of a member organization) of the SDO that has the vacancy on the NTCIP JC. The NTCIP JC must confirm the nomination by simple majority.
 
-|**Parameter**              |**Value**                               |
-|---------------------------|----------------------------------------|
-|**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
-|**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-| **History**               | 6/21/2018 Decreased the number of votes required for Recommended Standards and User Comment Drafts. 9/30/2017 This procedure on meeting Requirements of the NTCIP JC changes the previous practices in NTCIP 8001 v01.08 that assumed a full 18 voting member NTCIP Joint Committee to one that is based on the current number of voting members. Made change to requirement of a simple majority. |
-| **Related Procedures**    | None                                   |
+## Procedures of the NTCIP groups {.body}
 
-### Meeting Rules {.body}
+This section contains the procedures that primarily address activities of the NTCIP groups.
+
+### Meeting procedures of NTCIP groups {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Procedures**     |None                                    |
 
-Much of the work of the NTCIP JC occurs in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP JC are described below.
+Much of the work of NTCIP groups occur in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP groups are described below.
 
-##### Announcement of Meetings {.body}
+#### Announcement of meetings {.body}
 
-The NTCIP Coordinator will announce every meeting of the NTCIP JC and of each of its groups in coordination with the respective Chair. The announcement shall include the date, time, location, and agenda. 
-
-Virtual meetings are to be announced at least ==two weeks== in advance of the meeting. In-person meetings are to be announced at least ==six weeks== in advance of the meeting.
-
-Announcements are to announced using the designated communications channels established for the NTCIP JC and of each of its groups.
-
-##### Parliamentary Authority {.body}
-
-The parliamentary authority of the NTCIP JC follows Robert's Rules of Order Newly Revised (RONR). RONR governs in all cases to which they are applicable and in which they are not inconsistent with this policies, processes and procedures document.
-
-##### Quorum {.body}
-
-The number of members required to hold a meeting of the NTCIP JC is one-third (1/3) or more of the current NTCIP JC voting membership with at least one voting member present from each of the NTCIP SDOs. For example, if there are 17 voting members, then one-third is 5.67 which means that there are 6 voting members present or more required.
-
-##### Voting
-
-Votes on matters before the committee may be taken either within a committee meeting or through an electronic ballot.
-
-For votes conducted within a committee meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such advance votes must be received by the chair of the committee or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
-
-##### Voting: pRS to RS {.body}
-
-~~This is t~~^^T^^he number of votes required for the NTCIP JC to accept a pRS as an RS ~~or to accept a pRE as an RE. A recommended majority~~ is two-thirds (2/3s) or more ^^of those present^^ ~~affirmative votes~~ at a meeting where a quorum is present. For example, if there are 17 voting members and 10 voting members present at a meeting, then ^^the number of affirmative votes required to pass the motion is greater than or equal to 10*2/3 =^^ 6.67, which ^^effectively^^ means ~~there are~~^^at least^^ 7 affirmative votes ^^are^^~~or more~~ required.
+The NTCIP Coordinator must announce every meeting of each NTCIP group in coordination with the respective chair. The announcement must include the date, time, location, and agenda. 
 
 !!! question
-    The requirement seemed to be based on 2/3rds of votes cast versus the example was based on 2/3rds of those present. This results in an ambiguity if there are abstentions. Which one captures the intent?
+    For review
 
-##### Voting: pUCD to UCD {.body}
+Virtual meetings are to be announced at least two weeks in advance of the meeting. In-person meetings are to be announced at least six weeks in advance of the meeting.
 
-Affirmative Votes for a User Comment Draft: ~~This is t~~^^T^^he number of votes required for the NTCIP JC to accept a pUCD as an UCD~~. A user comment majority~~ is one-half plus one (1/2 + 1) or more ~~affirmative votes~~ ^^of those present^^ at a meeting where a quorum is present. For example, if there are 17 voting members and ~~10~~ ^^11^^ voting members present at a meeting, then ^^the number of affirmative votes required to pass the motion is greater than or equal to 11/2 + 1 = 6.^^ ~~one-half is ~~5^^,^^ which ^^effectively^^ means that ~~there are~~^^at least 7^^ ~~6~~ affirmative votes ^^are^^~~or more~~ required.
+Announcements must be made using the designated communication channels established for the NTCIP group.
 
-!!! question "Discussion"
-    The requirement seemed to be based on 2/3rds of votes cast versus the example was based on 2/3rds of those present. This results in an ambiguity if there are abstentions. Which one captures the intent? The text for "half + 1 or more" is also confusing and the example did not clarify this. While this could perhaps be interpreted as a simple majority (i.e., >50%); the distinct clause with different wording suggests that a slightly higher bar was intended.
+#### Parliamentary authority {.body}
 
-##### Voting: Simple Majority {.body}
-
-Votes for Simple Majority: This is number of votes required for general decisions by the NTCIP JC not otherwise covered in this section. A simple majority vote is more than half the votes cast. A quorum must be present. Abstentions are not counted. For example, if there are six voting members present at a meeting and the quorum requirement is met, then a vote of two yeas, one nay and three abstentions results in a motion passing. In the same meeting, a vote of three yeas and three nays results in a motion failing because a majority was not achieved.
-
-##### Voting between Meetings {.body}
-
-Acceptance Actions Between Meetings of the NTCIP JC: ~~Acceptance actions by the NTCIP JC are those when a vote is taken to accept a pUCD as a UCD, to accept a pRS as an RS, or to accept a pRE as an RE.~~ Typically, acceptance actions are completed as part of an NTCIP JC meeting. There are circumstances, however, when the NTCIP JC may determine that it is prudent to complete an acceptance action outside of a meeting. This may be done because the NTCIP JC members need more time to review a proposed document before voting, there are not enough voting members at the meeting to perform the vote, or some other reason. In such cases, an electronic ballot may be used outside of the NTCIP JC meeting as follows:
-
-1. A motion must be made ^^by a voting member of the JC^^ that an electronic ballot be taken~~ to accept the pUCD, pRS or pRE as a UCD, RS or RE, respectively~~. The motion must be recorded at the meeting and include the details of when and how the ballot will be performed. Electronic balloting may include email, a polling website, or some other method.
-2. The motion must be seconded.
-3. The motion must pass by simple majority.
-4. No split vote between a meeting and electronic voting is allowed. All voting must take place during a meeting NTCIP JC or electronically outside of the meeting but not both.
-
-!!! question
-    It seems to me that this should apply to any motion, not just motions related to document status.
-
-!!! question
-    Step 2 & 3 suggest that we have to take a vote to agree to take a vote. This is standard Robert's Rules (i.e., the first is closure of discussion, the second is taking action). Do we want to require this for electronic ballots?
-
-!!! question
-    This requires that the motion be made at a meeting, but I do not believe that is always true (i.e., I think electronic ballots have been proposed and held outside of meetings). It seems to me that as long as a voting member suggests it (e.g., via email) and it is seconded by the JC chair, then it should be considered a valid motion and the ballot should be held. I guess the question is can the chair quash the motion until the next JC meeting? Or do we want to force that all ballots be initiated by a meeting decision?
-
-!!! question
-    Are proxy or correspondence votes allowed? Item 4 implies not, but is not exactly clear on this point.
-
-## Procedures of the NTCIP WGs {.body}
-
-This section contains the procedures that primarily address activities of the NTCIP WGs.
-
-### NTCIP WG Organization {.body}
-
-|**Parameter**              |**Value**                               |
-|---------------------------|----------------------------------------|
-|**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
-|**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-| **History**               |This procedure on meeting NTCIP WG Organization changes abilities on observing members. NTCIP Working Group Bylaws in NTCIP 8001 v01.08 so that observing members may be assigned tasks at the WG Chair’s discretion.|
-| **Related Procedures**    | 5.1.1 Creating an NTCIP Working Group  |
-
-#### Voting
-
-Votes on matters before the group may be taken either within a group meeting or through an electronic ballot.
-
-For votes conducted within a group meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such advance votes must be received by the chair of the group or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
-
-#### Procedure Statement {.body}
-
-This procedure describes the organization and membership of NTCIP WGs. There are three categories of members within NTCIP WGs: Voting members, observing members, and liaison members. Individuals or companies wishing to serve on an NTCIP WG must petition the Chair (or Chairs) for membership. The term of membership is three (3) years from the date of appointment. Members may be reappointed to additional terms.
-
-!!! question
-    The phrase "individuals or companies" could be interpreted to suggest that an employee of a company could be a member of a WG as an "individual", which could lead to multiple voting members from one company. What is the actual intent?
-
-!!! question
-    Based on experience, is it wise to set 3 year terms when participation is spotty
-
-WG Chair or Chairs: NTCIP WG Chairs are appointed by the NTCIP JC Chair for a term of three (3) years (see 5.1.1 Creating an NTCIP Working Group). A WG Chair is an “at will” appointment and can be terminated by either party within the term. WG Chairs may be reappointed to additional terms. A WG Chair is a voting member of the WG.
-
-!!! question
-    The current wording implies that there might be 10 chairs. Do we want to clarify that the intent is that each group should have one public sector co-chair and one private sector co-chair to: 1) improve the sense of balance, and 2) decrease dependency on any one person?
-
-Voting Members: There are at least seven (7) and no more than nineteen (19) voting members. The voting members are eligible to vote on all business before the WG. There can be only one voting member from each organizational entity. An organizational entity may be a department of transportation, corporation, or association. The voting members are expected to actively participate in the meetings of the WG, and perform their assigned tasks. The voting members are appointed by the WG Chair. The initial roster of voting members must be approved by the NTCIP JC. Subsequent additions or cancellations of voting memberships are proposed by the WG Chair and approved by the NTCIP JC Chair. If a voting member has not attended or been represented at three (3) of the last four (4) regular meetings, their membership category may be changed to observing member. In such a case, the member is to be notified by the WG Chair. A voting member may designate an alternate voting member from the same organizational entity to represent the voting member at a WG meeting. The alternate voting member is eligible to vote on all business before the WG.
-
-!!! question
-    Based on experience is this the appropriate design of voting membership or does it perhaps allow the WG chair to dominate the process too much by hand-selecting the membership? As described here, the membership is organization-based (i.e., an individual can appoint an alternate). It may be better to arrange as those who attend get to vote but votes are weighted to ensure balance among producers, users, and general interest
-
-Observing Members: There are no limits on the number of observing members. The observing members are those who choose to participate at various levels of regularity but are not voting members. Observing members are appointed by the WG Chair. Observing members may be assigned tasks at the WG Chairs discretion. An observing member may designate an alternate observing member from the same organizational entity to attend meetings in their absence.
-
-!!! question
-    Are observing members allowed to participate in the discussions or just listen? I believe the intent is to allow participation, but the name implies otherwise. We should clarify this in the description.
-
-Liaison Members: Liaison members are the employees of standards developing organization and sponsoring agencies in the federal government who, in their official capacity, would like to be informed on the activities of the WG. Liaison members are non-voting members. Liaison members are appointed by the WG Chair. A liaison member may designate an alternate liaison member from the same organizational entity to attend meetings in their absence.
-
-!!! question
-    Do WG chairs really appoint observing and liaison members? It seems to me that the membership is and should be open to all. A chair rejecting membership of an individual or organization creates potential legal issues unless we define clear rules -- and even then, it likely should be the SDOs responsibility to adjudicate those decisions rather than the chair.
-
-!!! question
-    If we adopt a more open voting format, do we need the observing member status? It seems odd for anyone other than the USDOT and SDOs (which are defined as liaison members) to join and in advance say that they will never vote. It seems more appropriate to ask on each occassion and allow them to abstain.
-
-### Meeting Procedures of NTCIP WGs {.body}
-
-|**Parameter**              |**Value**                               |
-|---------------------------|----------------------------------------|
-|**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
-|**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Procedures**     |None                                    |
-
-#### Procedure Statement {.body}
-
-Much of the work of NTCIP WGs occur in meetings. Meetings may take place in a face-to-face setting, through web conferencing or through a teleconference. The practices for conducting meetings of the NTCIP WGs are described below.
-
-Parliamentary Authority: The parliamentary authority of an NTCIP WG follows Robert's Rules of Order Newly Revised (RONR). RONR governs in all cases to which they are applicable and in which they are not inconsistent with this policies, processes and procedures document.
+The parliamentary authority of an NTCIP group follows Robert's Rules of Order Newly Revised (RONR). RONR governs in all cases to which they are applicable and in which they are not inconsistent with the policies, processes, and procedures defined in this document.
 
 !!! question
     Do we want to soften this language? Robert's rules are rather strict and constraining, and in practice are not being followed that way in hardly any of the SDOs. Perhaps something like NTCIP groups are generally governed by consensus processes and rely on Robert's Rules of Order Newly Revised (RONR) when resolving conflicts and taking votes.
-
-Quorum: The number of members required to hold a meeting of an NTCIP WG is one-half (1/2) or more of the current NTCIP WG voting membership. Alternate voting members present at a meeting are counted as voting members if the voting member is not present. For example, if there are 9 voting members, then one-half is 4.5 which means that there are 5 voting members present or more required.
-
-Votes for Simple Majority: This is number of votes required for general decisions by the NTCIP WG not otherwise covered in this section. A simple majority vote is more than half the votes cast. A quorum must be present. Abstentions are not counted. For example, if there are six voting members present at meeting and the quorum requirement is met, then a vote of two yeas, one nay and three abstentions results in a motion passing. In the same meeting, a vote of three yeas and three nays results in a motion failing because a majority was not achieved.
 
 Acceptance Actions Between Meetings of the NTCIP WG: Acceptance actions by the NTCIP WG are those when a vote is taken to accept a WGD as a pUCD, pRS or pRE. Typically, acceptance actions are completed as part of an NTCIP WG meeting. There are circumstances, however, when the NTCIP WG may determine that it is prudent to complete an acceptance action outside of a meeting. This may be done because the NTCIP WG members need more time to review a proposed document before voting, there are not enough voting members at the meeting to perform the vote, or some other reason. In such cases, an electronic ballot may be used outside of the NTCIP WG meeting as follows:
 
@@ -269,5 +237,199 @@ Acceptance Actions Between Meetings of the NTCIP WG: Acceptance actions by the N
 
 !!! question
     Should we move common text (e.g., simple majority) to a different section and then reference where needed?
+
+### NTCIP group voting procedures {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2017                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+
+For votes conducted within a group meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such correspondence votes must be received by the chair of the group or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
+
+#### General {.body}
+
+Votes on matters before an NTCIP group may be taken either within a meeting or through an electronic ballot. Votes must not be mixed between the two methods.
+
+For votes conducted within a group meeting, members who are unable to attend may submit their vote by correspondence in advance of the meeting. Such correspondence votes must be received by the group chair or the NTCIP Coordinator (or designated recipient) prior to the start of the meeting and will be counted as if the member were present.
+
+For votes conducted within a group meeting, a ballot cast may be from the voting member or the voting member's designated alternate, if the voting member is not present. [Proxy votes](general.md#terms) are not allowed.
+
+Unless otherwise specified, votes must be taken by [simple majority](general.md#terms). 
+
+!!! note
+    The following actions vary from a simple majority.
+
+    - Approval of a pre-Recommended Standard (pRS) as a Recommended Standard (RS)
+    - Approval of a pre-Interim Document for Field Release (pIFR) for a new major version
+    - Approval of an Interim Document for Field Release (IFR) for a minor version or patch version
+
+!!! question
+    Review the following ways to initiate a vote. Are they all valid?
+
+#### Group chair initiated votes {.body}
+
+The chair of the NTCIP group may initiate a vote on an issue according to the following procedure:
+
+1. The chair must identify the question to be asked and the ballot method to use (e.g., electronic or in-person). The information must be sent to the NTCIP Coordinator. 
+2. The question will be announced to the voting membership either:
+    - as an agenda item for the next meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of 30 days of discussion and two-weeks of voting
+
+#### Group initiated votes {.body}
+
+A sub-group of the NTCIP group may initiate a vote within the NTCIP group as a part of a task to which it has been assigned according to the following procedure:
+
+1. A motion must be made by a voting member of the sub-group to advance a report or document to its next stage through a vote by the NTCIP group. 
+2. The motion must be seconded.
+3. The motion must pass within the sub-group by the required majority.
+4. The request for a vote within the NTCIP group must be recorded and communicated to the NTCIP group chair and NTCIP Coordinator.
+5. The NTCIP group chair must identify the ballot method to use (e.g., electronic or in-meeting). The information must be sent to the NTCIP Coordinator. 
+6. The question will be announced to the NTCIP group voting membership either:
+    - as an agenda item for the next meeting at least two weeks in advance of the meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of 30 days of discussion and two-weeks of voting
+
+#### Member requested votes {.body}
+
+A voting member of the NTCIP group may request to initiate a vote on any issue according to the following procedure:
+
+1. A motion must be made by a voting member of the NTCIP group that states the question to be asked and the ballot method to use (e.g., electronic or in-person). The motion may be made at a meeting or via electronic means. 
+2. The motion must be seconded.
+3. The motion must pass by simple majority.
+4. The question will be announced to the voting membership either:
+    - at a meeting and followed by a period of discussion and voting at the meeting
+    - as an agenda item for the next meeting and followed by a period of discussion and voting at the meeting
+    - via electronic means and followed by a minimum period of two-weeks of voting
+
+!!! note
+    This process allows issues that arise at a meeting to be voted on immediately; however, it is greatly preferred to identify issues to be voted on in advance of a meeting and to announce them as an agenda item.
+
+### Specific actions of NTCIP groups {.body}
+
+#### Group drafts/revises document {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2026                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+After a work item proposal has been approved, the designated group begins the task of creating the draft document and building consensus based on the input from the group members. Often, a paid consultant serves as the editor; although, the work may also be done on a volunteer basis by group members.
+
+Early drafts can be incomplete, address certain features or areas of the work item, or be in a non-compliant format. The editor is responsible for ensuring that the document evolves into the correct format, as defined by [NTCIP 8002](https://ite-org.github.io/NTCIP-8002/), and that all necessary sections are drafted.
+
+The work to develop this draft can either follow the traditional process (e.g., using Word documents) or follow the online process described in [NTCIP 8008](https://ite-org.github.io/NTCIP-8008/). The editor is responsible for ensuring that the group's input is incorporated into the document and that the document is developed in a timely manner while maintaining a high quality.
+
+#### Group collects and resolves comments {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2026                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+In addition to internal group discussions, the group is responsible for collecting and resolving written comments from the larger industry community. These comments frequently include comments from group members performing detailed reviews of the document at key points during the development cycle. The group can collect these comments in one of two ways:
+
+- In the traditional standards development process, the NTCIP JC approves a UCD, which represents a substantially complete draft, with a defined commenting period. All written comments received during this period are carefully managed and formal responses are prepared. Comments may be sent directly to the group or forwarded through SDO Staff to the group. The group is responsible for adjudicating the comments and preparing formal responses, which are recorded by the editor and managed by the NTCIP Coordinator.
+- In the online standards development process, the document is always available online and its associated GitHub environment allows for the submission of comments (a.k.a., issues) at any time. These comments and responses are managed by the GitHub environment automatically. Prior to approval, the document is released as a "-ucd" pre-release version for a minimum of 30 days.
+
+!!! question
+    I added a "-ucd" pre-release to be used as a warning of a pending approval period and asking for final comments with a minimum 30-day window. Is this appropriate?
+
+The group collects, organizes, and adjudicates all comments received during the commenting period. The comments may be editorial, technical, simple or substantial in nature. A comment may be “rejected” based on the consensus of the group. Some of the reasons that a comment may be rejected are that the group may disagree technically with the proposed change, the group may decide that the proposed change is out of scope for the work item being developed, or the comment may not be suitable because of other corrective actions taken by the group. A comment is “accepted” when it is the consensus of the group that the suggested change or issue is appropriate. Often, comments submitted include suggested changes to the text of the standard. Such changes are taken as recommendations but the group may accept the comment but modify the corrective measures suggested (i.e., "accepted as modified"). The adjudications of the comments must be posted on the GitHub repository, provided directly to the commenter(s), recorded otherwise within the NTCIP records, or some combination thereof.
+
+#### Group approves document for next stage {.body}
+
+|**Parameter**              |**Value**                               |
+|---------------------------|----------------------------------------|
+|**Effective Date:**        |September 30, 2026                      |
+|**Last Reviewed/Updated:** |September 30, 2026                      |
+
+Once a group has consensus on the document and the document conforms to NTCIP 8002, it takes a vote to advance the document to its next stage. The amount of support required to pass a vote varies depending on the next stage of the work item, as follows:
+
+- Pre-User Comment Draft (pUCD): [simple majority](general.md#terms)
+- Pre-Recommended Standard (pRS): [two-thirds (2/3s) majority](general.md#terms)
+- Pre-Interim Document for Field Release (pIFR): [two-thirds (2/3s) majority](general.md#terms)
+- Interim Document for Field Release (IFR) by a working group: [two-thirds (2/3s) majority](general.md#terms)
+- Interim Document for Field Release (IFR) by a maintenance group : [unanimity](general.md#terms)
+
+!!! question
+    Are we good with unanimity for the IFR by a maintenance group?
+
+If the vote passes, the document is advanced to the next stage. If the vote fails, the group will need to continue working on the document until consensus is achieved.
+
+## Procedures of the SDOs {.body}
+
+This section contains the procedures of the SDOs.
+
+#### SDOs distribute document {.body}
+
+At defined stages, the NTCIP SDOs distribute the document to the members of their organizations for industry review. The exact procedures are defined by the SDOs themselves.
+
+#### Industry approves document as full standard {.body}
+
+The SDOs manage the approval from industry according to their own approval (or ballot) process.
+
+#### SDOs publish document {.body}
+
+Once a document has been approved for final release, the NTCIP SDOs must update the document (i.e., showing its new status and any other final editorial changes) and make the document publicly available (e.g., through a designated website).
+
+## Procedure for approving an NTCIP standard {.body}
+
+The procedure for approving an NTCIP standard is followed to produce a full standard with a Recommended Standard (RS) produced as an interim step. The procedure is as follows:
+
+!!! question
+    Replace the following with a GraphViz figure
+
+<figure markdown>
+![Standards development process](assets/img/standards-process.png)
+<figcaption>Figure 3: Standards development process</figcaption>
+</figure>
+
+1. The [NTCIP JC assigns a work item to a WG](procedures.md#jc-assigns-a-work-item-to-a-wg)
+2. [WG drafts/revises document](procedures.md#group-draftsrevises-document)
+3. [SDOs distribute document](procedures.md#sdos-distribute-document)
+4. [WG collects and resolves comments](procedures.md#group-collects-and-resolves-comments) (resolution can include deferring issues to a future version)
+5. [WG approves document as pre-Recommended Standard](procedures.md#group-approves-document-for-next-stage) (pre-RS)
+6. [JC reviews pre-RS document](procedures.md#jc-reviews-document)
+7. [JC approves document as a Recommended Standard](procedures.md#jc-approves-document-for-next-stage) (RS)
+8. [SDO publishes as an RS](procedures.md#sdos-publish-document)
+9. [SDO distributes RS for industry review](procedures.md#sdos-distribute-document)
+10. [Industry approves document as full standard](procedures.md#industry-approves-document-as-full-standard)
+11. [SDO publishes full standard](procedures.md#sdos-publish-document)
+
+## Procedure for approving an NTCIP Interim Document for Field Release (IFR) {.body}
+
+The IFR approval process is designed for quick approval and release and avoids delays due to lengthy ballot periods and editorial review. The IFR process can be particularly responsive to user needs when combined with the [online development process](https://ite-org.github.io/NTCIP-8008/), which allows the administrative aspects of the user comment period to be condensed using online tools rather than relying on more traditional processes. However, the IFR process can also be applied to processes using traditional MS Word documents.
+
+The basic IFR approval procedure is as follows:
+
+1. The [NTCIP JC assigns a work item to a WG](procedures.md#jc-assigns-a-work-item-to-a-wg) with permission to use the IFR process
+2. If new major version (i.e., new document or not backwards compatible)
+    1. [WG drafts/revises document](procedures.md#group-draftsrevises-document)
+    2. [SDOs distributes UCD document](procedures.md#sdos-distribute-document)
+    3. [WG collects and resolves UCD comments](procedures.md#group-collects-and-resolves-comments) (resolution can include deferring issues to a future version)
+    4. [WG approves document as pre-IFR](procedures.md#group-approves-document-for-next-stage)
+    5. [JC reviews pre-IFR document](procedures.md#jc-reviews-document)
+    6. [JC approves document as IFR](procedures.md#jc-approves-document-for-next-stage) (major version)
+3. If minor version (i.e., backwards compatible with one or more additional features or corrections)
+    1. [WG revises document](procedures.md#group-draftsrevises-document)
+    2. [SDOs distributes UCD document](procedures.md#sdos-distribute-document)
+    3. [WG collects and resolves comments](procedures.md#group-collects-and-resolves-comments) (resolution can include deferring issues to a future version)
+    4. [WG approves document as IFR](procedures.md#group-approves-document-for-next-stage) (minor version)
+4. If patch version (i.e., backwards compatible with one or more corrections)
+    1. [Maintenance Group (MG) revises document](procedures.md#group-draftsrevises-document)
+    2. [SDOs distributes UCD document](procedures.md#sdos-distribute-document)
+    3. [MG collects and resolves comments](procedures.md#group-collects-and-resolves-comments) (resolution can include deferring issues to a future version)
+    4. [MG approves document as IFR](procedures.md#group-approves-document-for-next-stage) (patch version)
+5. [SDO publishes IFR](procedures.md#sdos-publish-document)
+6. A group or any of its parents may rescind one of its approved IFRs at any time (the version is retained in history but is marked as rescinded).
+
+!!! question
+    Replace the following with a GraphViz figure
+
+<figure markdown>
+![IFR approval process](assets/img/ifr-process.png)
+<figcaption>Figure 2: IFR approval process</figcaption>
+</figure>
 
 </div>
